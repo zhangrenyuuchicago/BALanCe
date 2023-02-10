@@ -1,0 +1,378 @@
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 9, best val acc: 0.6694
+Batch Random Pass:0, train_size:30, test_acc:0.6689 
+patience ex; best epoch: 1, best val acc: 0.6904
+Batch Random Pass:0, train_size:40, test_acc:0.6863 
+patience ex; best epoch: 3, best val acc: 0.7213
+Batch Random Pass:0, train_size:50, test_acc:0.7133 
+patience ex; best epoch: 20, best val acc: 0.7615
+Batch Random Pass:0, train_size:60, test_acc:0.7555 
+patience ex; best epoch: 9, best val acc: 0.8189
+Batch Random Pass:0, train_size:70, test_acc:0.8192 
+patience ex; best epoch: 7, best val acc: 0.8205
+Batch Random Pass:0, train_size:80, test_acc:0.828 
+patience ex; best epoch: 10, best val acc: 0.8294
+Batch Random Pass:0, train_size:90, test_acc:0.8373 
+patience ex; best epoch: 12, best val acc: 0.8494
+Batch Random Pass:0, train_size:100, test_acc:0.8582 
+patience ex; best epoch: 22, best val acc: 0.8591
+Batch Random Pass:0, train_size:110, test_acc:0.8708 
+patience ex; best epoch: 8, best val acc: 0.8728
+Batch Random Pass:0, train_size:120, test_acc:0.8816 
+patience ex; best epoch: 9, best val acc: 0.8732
+Batch Random Pass:0, train_size:130, test_acc:0.8811 
+patience ex; best epoch: 8, best val acc: 0.8815
+Batch Random Pass:0, train_size:140, test_acc:0.8843 
+patience ex; best epoch: 10, best val acc: 0.8946
+Batch Random Pass:0, train_size:150, test_acc:0.897 
+patience ex; best epoch: 5, best val acc: 0.9064
+Batch Random Pass:0, train_size:160, test_acc:0.907 
+patience ex; best epoch: 12, best val acc: 0.9059
+Batch Random Pass:0, train_size:170, test_acc:0.9079 
+patience ex; best epoch: 9, best val acc: 0.9044
+Batch Random Pass:0, train_size:180, test_acc:0.9109 
+patience ex; best epoch: 12, best val acc: 0.9024
+Batch Random Pass:0, train_size:190, test_acc:0.9084 
+patience ex; best epoch: 3, best val acc: 0.9074
+Batch Random Pass:0, train_size:200, test_acc:0.9099 
+patience ex; best epoch: 12, best val acc: 0.9118
+Batch Random Pass:0, train_size:210, test_acc:0.9145 
+patience ex; best epoch: 11, best val acc: 0.9009
+Batch Random Pass:0, train_size:220, test_acc:0.9055 
+patience ex; best epoch: 9, best val acc: 0.9128
+Batch Random Pass:0, train_size:230, test_acc:0.9162 
+patience ex; best epoch: 15, best val acc: 0.9182
+Batch Random Pass:0, train_size:240, test_acc:0.9204 
+patience ex; best epoch: 9, best val acc: 0.923
+Batch Random Pass:0, train_size:250, test_acc:0.9258 
+patience ex; best epoch: 14, best val acc: 0.9197
+Batch Random Pass:0, train_size:260, test_acc:0.9227 
+patience ex; best epoch: 7, best val acc: 0.9205
+Batch Random Pass:0, train_size:270, test_acc:0.9267 
+patience ex; best epoch: 19, best val acc: 0.9306
+Batch Random Pass:0, train_size:280, test_acc:0.9353 
+patience ex; best epoch: 8, best val acc: 0.9285
+Batch Random Pass:0, train_size:290, test_acc:0.9309 
+patience ex; best epoch: 18, best val acc: 0.9341
+Batch Random Pass:0, train_size:300, test_acc:0.9324 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 2, best val acc: 0.6583
+Batch Random Pass:1, train_size:30, test_acc:0.6582 
+patience ex; best epoch: 0, best val acc: 0.6709
+Batch Random Pass:1, train_size:40, test_acc:0.6653 
+patience ex; best epoch: 2, best val acc: 0.7365
+Batch Random Pass:1, train_size:50, test_acc:0.7455 
+patience ex; best epoch: 5, best val acc: 0.755
+Batch Random Pass:1, train_size:60, test_acc:0.7564 
+patience ex; best epoch: 8, best val acc: 0.7702
+Batch Random Pass:1, train_size:70, test_acc:0.7634 
+patience ex; best epoch: 7, best val acc: 0.8096
+Batch Random Pass:1, train_size:80, test_acc:0.8129 
+patience ex; best epoch: 2, best val acc: 0.8383
+Batch Random Pass:1, train_size:90, test_acc:0.8381 
+patience ex; best epoch: 10, best val acc: 0.8558
+Batch Random Pass:1, train_size:100, test_acc:0.8551 
+patience ex; best epoch: 12, best val acc: 0.8683
+Batch Random Pass:1, train_size:110, test_acc:0.8672 
+patience ex; best epoch: 1, best val acc: 0.8576
+Batch Random Pass:1, train_size:120, test_acc:0.8619 
+patience ex; best epoch: 10, best val acc: 0.8852
+Batch Random Pass:1, train_size:130, test_acc:0.8865 
+patience ex; best epoch: 7, best val acc: 0.8878
+Batch Random Pass:1, train_size:140, test_acc:0.8881 
+patience ex; best epoch: 8, best val acc: 0.8963
+Batch Random Pass:1, train_size:150, test_acc:0.8995 
+patience ex; best epoch: 5, best val acc: 0.8928
+Batch Random Pass:1, train_size:160, test_acc:0.8914 
+patience ex; best epoch: 5, best val acc: 0.8894
+Batch Random Pass:1, train_size:170, test_acc:0.8916 
+patience ex; best epoch: 12, best val acc: 0.9083
+Batch Random Pass:1, train_size:180, test_acc:0.9042 
+patience ex; best epoch: 10, best val acc: 0.9162
+Batch Random Pass:1, train_size:190, test_acc:0.9153 
+patience ex; best epoch: 3, best val acc: 0.9098
+Batch Random Pass:1, train_size:200, test_acc:0.9093 
+patience ex; best epoch: 10, best val acc: 0.9196
+Batch Random Pass:1, train_size:210, test_acc:0.9219 
+patience ex; best epoch: 6, best val acc: 0.9195
+Batch Random Pass:1, train_size:220, test_acc:0.9194 
+patience ex; best epoch: 7, best val acc: 0.9228
+Batch Random Pass:1, train_size:230, test_acc:0.921 
+patience ex; best epoch: 6, best val acc: 0.9231
+Batch Random Pass:1, train_size:240, test_acc:0.9208 
+patience ex; best epoch: 6, best val acc: 0.9201
+Batch Random Pass:1, train_size:250, test_acc:0.9212 
+patience ex; best epoch: 12, best val acc: 0.9248
+Batch Random Pass:1, train_size:260, test_acc:0.925 
+patience ex; best epoch: 6, best val acc: 0.9222
+Batch Random Pass:1, train_size:270, test_acc:0.9207 
+patience ex; best epoch: 7, best val acc: 0.9271
+Batch Random Pass:1, train_size:280, test_acc:0.9278 
+patience ex; best epoch: 10, best val acc: 0.9247
+Batch Random Pass:1, train_size:290, test_acc:0.924 
+patience ex; best epoch: 13, best val acc: 0.9347
+Batch Random Pass:1, train_size:300, test_acc:0.9372 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 2, best val acc: 0.6529
+Batch Random Pass:2, train_size:30, test_acc:0.6524 
+patience ex; best epoch: 2, best val acc: 0.6777
+Batch Random Pass:2, train_size:40, test_acc:0.684 
+patience ex; best epoch: 2, best val acc: 0.7093
+Batch Random Pass:2, train_size:50, test_acc:0.7131 
+patience ex; best epoch: 8, best val acc: 0.7619
+Batch Random Pass:2, train_size:60, test_acc:0.7649 
+patience ex; best epoch: 4, best val acc: 0.7857
+Batch Random Pass:2, train_size:70, test_acc:0.7884 
+patience ex; best epoch: 9, best val acc: 0.8285
+Batch Random Pass:2, train_size:80, test_acc:0.8281 
+patience ex; best epoch: 8, best val acc: 0.8213
+Batch Random Pass:2, train_size:90, test_acc:0.8262 
+patience ex; best epoch: 11, best val acc: 0.8352
+Batch Random Pass:2, train_size:100, test_acc:0.8392 
+patience ex; best epoch: 10, best val acc: 0.8545
+Batch Random Pass:2, train_size:110, test_acc:0.8629 
+patience ex; best epoch: 10, best val acc: 0.858
+Batch Random Pass:2, train_size:120, test_acc:0.8631 
+patience ex; best epoch: 4, best val acc: 0.8643
+Batch Random Pass:2, train_size:130, test_acc:0.8659 
+patience ex; best epoch: 6, best val acc: 0.8728
+Batch Random Pass:2, train_size:140, test_acc:0.8774 
+patience ex; best epoch: 4, best val acc: 0.8661
+Batch Random Pass:2, train_size:150, test_acc:0.8726 
+patience ex; best epoch: 6, best val acc: 0.8609
+Batch Random Pass:2, train_size:160, test_acc:0.8726 
+patience ex; best epoch: 4, best val acc: 0.8807
+Batch Random Pass:2, train_size:170, test_acc:0.8828 
+patience ex; best epoch: 8, best val acc: 0.8871
+Batch Random Pass:2, train_size:180, test_acc:0.8924 
+patience ex; best epoch: 13, best val acc: 0.897
+Batch Random Pass:2, train_size:190, test_acc:0.9002 
+patience ex; best epoch: 9, best val acc: 0.8875
+Batch Random Pass:2, train_size:200, test_acc:0.8961 
+patience ex; best epoch: 7, best val acc: 0.9151
+Batch Random Pass:2, train_size:210, test_acc:0.9187 
+patience ex; best epoch: 11, best val acc: 0.9083
+Batch Random Pass:2, train_size:220, test_acc:0.9104 
+patience ex; best epoch: 12, best val acc: 0.9207
+Batch Random Pass:2, train_size:230, test_acc:0.9155 
+patience ex; best epoch: 12, best val acc: 0.9158
+Batch Random Pass:2, train_size:240, test_acc:0.9157 
+patience ex; best epoch: 15, best val acc: 0.9222
+Batch Random Pass:2, train_size:250, test_acc:0.9196 
+patience ex; best epoch: 16, best val acc: 0.9265
+Batch Random Pass:2, train_size:260, test_acc:0.9299 
+patience ex; best epoch: 12, best val acc: 0.9268
+Batch Random Pass:2, train_size:270, test_acc:0.9318 
+patience ex; best epoch: 21, best val acc: 0.9315
+Batch Random Pass:2, train_size:280, test_acc:0.9346 
+patience ex; best epoch: 17, best val acc: 0.9316
+Batch Random Pass:2, train_size:290, test_acc:0.9336 
+patience ex; best epoch: 16, best val acc: 0.9275
+Batch Random Pass:2, train_size:300, test_acc:0.9291 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 2, best val acc: 0.6273
+Batch Random Pass:3, train_size:30, test_acc:0.6281 
+patience ex; best epoch: 4, best val acc: 0.7176
+Batch Random Pass:3, train_size:40, test_acc:0.7143 
+patience ex; best epoch: 7, best val acc: 0.7752
+Batch Random Pass:3, train_size:50, test_acc:0.7854 
+patience ex; best epoch: 9, best val acc: 0.7998
+Batch Random Pass:3, train_size:60, test_acc:0.812 
+patience ex; best epoch: 7, best val acc: 0.8146
+Batch Random Pass:3, train_size:70, test_acc:0.8236 
+patience ex; best epoch: 1, best val acc: 0.8129
+Batch Random Pass:3, train_size:80, test_acc:0.8202 
+patience ex; best epoch: 2, best val acc: 0.8173
+Batch Random Pass:3, train_size:90, test_acc:0.8231 
+patience ex; best epoch: 3, best val acc: 0.8471
+Batch Random Pass:3, train_size:100, test_acc:0.8545 
+patience ex; best epoch: 4, best val acc: 0.8498
+Batch Random Pass:3, train_size:110, test_acc:0.8548 
+patience ex; best epoch: 5, best val acc: 0.865
+Batch Random Pass:3, train_size:120, test_acc:0.8678 
+patience ex; best epoch: 9, best val acc: 0.8768
+Batch Random Pass:3, train_size:130, test_acc:0.881 
+patience ex; best epoch: 6, best val acc: 0.8739
+Batch Random Pass:3, train_size:140, test_acc:0.8759 
+patience ex; best epoch: 9, best val acc: 0.8837
+Batch Random Pass:3, train_size:150, test_acc:0.8838 
+patience ex; best epoch: 10, best val acc: 0.8926
+Batch Random Pass:3, train_size:160, test_acc:0.8953 
+patience ex; best epoch: 4, best val acc: 0.8985
+Batch Random Pass:3, train_size:170, test_acc:0.8996 
+patience ex; best epoch: 9, best val acc: 0.8863
+Batch Random Pass:3, train_size:180, test_acc:0.8907 
+patience ex; best epoch: 9, best val acc: 0.9063
+Batch Random Pass:3, train_size:190, test_acc:0.9046 
+patience ex; best epoch: 15, best val acc: 0.9089
+Batch Random Pass:3, train_size:200, test_acc:0.9092 
+patience ex; best epoch: 7, best val acc: 0.9105
+Batch Random Pass:3, train_size:210, test_acc:0.912 
+patience ex; best epoch: 5, best val acc: 0.9078
+Batch Random Pass:3, train_size:220, test_acc:0.9131 
+patience ex; best epoch: 16, best val acc: 0.9086
+Batch Random Pass:3, train_size:230, test_acc:0.9159 
+patience ex; best epoch: 10, best val acc: 0.9154
+Batch Random Pass:3, train_size:240, test_acc:0.9207 
+patience ex; best epoch: 10, best val acc: 0.9156
+Batch Random Pass:3, train_size:250, test_acc:0.9203 
+patience ex; best epoch: 14, best val acc: 0.9216
+Batch Random Pass:3, train_size:260, test_acc:0.9281 
+patience ex; best epoch: 5, best val acc: 0.9195
+Batch Random Pass:3, train_size:270, test_acc:0.9236 
+patience ex; best epoch: 5, best val acc: 0.9222
+Batch Random Pass:3, train_size:280, test_acc:0.923 
+patience ex; best epoch: 11, best val acc: 0.9308
+Batch Random Pass:3, train_size:290, test_acc:0.9351 
+patience ex; best epoch: 12, best val acc: 0.9282
+Batch Random Pass:3, train_size:300, test_acc:0.929 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 2, best val acc: 0.6257
+Batch Random Pass:4, train_size:30, test_acc:0.6278 
+patience ex; best epoch: 2, best val acc: 0.691
+Batch Random Pass:4, train_size:40, test_acc:0.6919 
+patience ex; best epoch: 3, best val acc: 0.7133
+Batch Random Pass:4, train_size:50, test_acc:0.7197 
+patience ex; best epoch: 1, best val acc: 0.7332
+Batch Random Pass:4, train_size:60, test_acc:0.7331 
+patience ex; best epoch: 19, best val acc: 0.7797
+Batch Random Pass:4, train_size:70, test_acc:0.7874 
+patience ex; best epoch: 2, best val acc: 0.787
+Batch Random Pass:4, train_size:80, test_acc:0.799 
+patience ex; best epoch: 5, best val acc: 0.8123
+Batch Random Pass:4, train_size:90, test_acc:0.822 
+patience ex; best epoch: 3, best val acc: 0.8294
+Batch Random Pass:4, train_size:100, test_acc:0.8375 
+patience ex; best epoch: 5, best val acc: 0.8627
+Batch Random Pass:4, train_size:110, test_acc:0.8697 
+patience ex; best epoch: 13, best val acc: 0.8779
+Batch Random Pass:4, train_size:120, test_acc:0.8835 
+patience ex; best epoch: 5, best val acc: 0.8855
+Batch Random Pass:4, train_size:130, test_acc:0.8901 
+patience ex; best epoch: 6, best val acc: 0.8838
+Batch Random Pass:4, train_size:140, test_acc:0.8893 
+patience ex; best epoch: 16, best val acc: 0.8903
+Batch Random Pass:4, train_size:150, test_acc:0.894 
+patience ex; best epoch: 23, best val acc: 0.9047
+Batch Random Pass:4, train_size:160, test_acc:0.906 
+patience ex; best epoch: 9, best val acc: 0.8985
+Batch Random Pass:4, train_size:170, test_acc:0.902 
+patience ex; best epoch: 11, best val acc: 0.9101
+Batch Random Pass:4, train_size:180, test_acc:0.9133 
+patience ex; best epoch: 10, best val acc: 0.9044
+Batch Random Pass:4, train_size:190, test_acc:0.9124 
+patience ex; best epoch: 13, best val acc: 0.9125
+Batch Random Pass:4, train_size:200, test_acc:0.916 
+patience ex; best epoch: 11, best val acc: 0.9075
+Batch Random Pass:4, train_size:210, test_acc:0.9151 
+patience ex; best epoch: 14, best val acc: 0.9148
+Batch Random Pass:4, train_size:220, test_acc:0.9195 
+patience ex; best epoch: 3, best val acc: 0.9071
+Batch Random Pass:4, train_size:230, test_acc:0.9149 
+patience ex; best epoch: 14, best val acc: 0.9228
+Batch Random Pass:4, train_size:240, test_acc:0.9296 
+patience ex; best epoch: 8, best val acc: 0.9224
+Batch Random Pass:4, train_size:250, test_acc:0.9266 
+patience ex; best epoch: 10, best val acc: 0.9173
+Batch Random Pass:4, train_size:260, test_acc:0.927 
+patience ex; best epoch: 6, best val acc: 0.9234
+Batch Random Pass:4, train_size:270, test_acc:0.9295 
+patience ex; best epoch: 6, best val acc: 0.9226
+Batch Random Pass:4, train_size:280, test_acc:0.9289 
+patience ex; best epoch: 11, best val acc: 0.9275
+Batch Random Pass:4, train_size:290, test_acc:0.9303 
+patience ex; best epoch: 11, best val acc: 0.9311
+Batch Random Pass:4, train_size:300, test_acc:0.9349 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 1, best val acc: 0.6586
+Batch Random Pass:5, train_size:30, test_acc:0.6594 
+patience ex; best epoch: 4, best val acc: 0.7482
+Batch Random Pass:5, train_size:40, test_acc:0.7432 
+patience ex; best epoch: 4, best val acc: 0.7948
+Batch Random Pass:5, train_size:50, test_acc:0.7963 
+patience ex; best epoch: 4, best val acc: 0.8152
+Batch Random Pass:5, train_size:60, test_acc:0.8171 
+patience ex; best epoch: 8, best val acc: 0.8255
+Batch Random Pass:5, train_size:70, test_acc:0.8302 
+patience ex; best epoch: 4, best val acc: 0.8531
+Batch Random Pass:5, train_size:80, test_acc:0.8588 
+patience ex; best epoch: 2, best val acc: 0.8561
+Batch Random Pass:5, train_size:90, test_acc:0.8596 
+patience ex; best epoch: 6, best val acc: 0.8765
+Batch Random Pass:5, train_size:100, test_acc:0.8831 
+patience ex; best epoch: 6, best val acc: 0.879
+Batch Random Pass:5, train_size:110, test_acc:0.8886 
+patience ex; best epoch: 8, best val acc: 0.8751
+Batch Random Pass:5, train_size:120, test_acc:0.8797 
+patience ex; best epoch: 10, best val acc: 0.8792
+Batch Random Pass:5, train_size:130, test_acc:0.8873 
+patience ex; best epoch: 15, best val acc: 0.8927
+Batch Random Pass:5, train_size:140, test_acc:0.8981 
+patience ex; best epoch: 19, best val acc: 0.8937
+Batch Random Pass:5, train_size:150, test_acc:0.898 
+patience ex; best epoch: 6, best val acc: 0.8896
+Batch Random Pass:5, train_size:160, test_acc:0.8933 
+patience ex; best epoch: 12, best val acc: 0.8923
+Batch Random Pass:5, train_size:170, test_acc:0.8959 
+patience ex; best epoch: 6, best val acc: 0.9069
+Batch Random Pass:5, train_size:180, test_acc:0.9126 
+patience ex; best epoch: 9, best val acc: 0.9134
+Batch Random Pass:5, train_size:190, test_acc:0.9189 
+patience ex; best epoch: 10, best val acc: 0.9066
+Batch Random Pass:5, train_size:200, test_acc:0.9148 
+patience ex; best epoch: 7, best val acc: 0.9082
+Batch Random Pass:5, train_size:210, test_acc:0.9118 
+patience ex; best epoch: 11, best val acc: 0.9158
+Batch Random Pass:5, train_size:220, test_acc:0.9141 
+patience ex; best epoch: 9, best val acc: 0.9203
+Batch Random Pass:5, train_size:230, test_acc:0.9199 
+patience ex; best epoch: 10, best val acc: 0.9187
+Batch Random Pass:5, train_size:240, test_acc:0.9265 
+patience ex; best epoch: 15, best val acc: 0.9238
+Batch Random Pass:5, train_size:250, test_acc:0.9286 
+patience ex; best epoch: 11, best val acc: 0.9224
+Batch Random Pass:5, train_size:260, test_acc:0.9219 
+patience ex; best epoch: 12, best val acc: 0.9234
+Batch Random Pass:5, train_size:270, test_acc:0.9253 
+patience ex; best epoch: 4, best val acc: 0.9186
+Batch Random Pass:5, train_size:280, test_acc:0.9212 
+patience ex; best epoch: 9, best val acc: 0.9253
+Batch Random Pass:5, train_size:290, test_acc:0.9342 
+patience ex; best epoch: 4, best val acc: 0.9208
+Batch Random Pass:5, train_size:300, test_acc:0.9228 

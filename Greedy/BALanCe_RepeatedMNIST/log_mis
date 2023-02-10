@@ -1,0 +1,378 @@
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 4, best val acc: 0.6392
+MIS Batch MC Pass:0, train_size:20, test_acc:0.6425, pos_lt: [86576, 17933, 17038, 17991, 45940, 75840, 19994, 78848, 26904, 14841] 
+patience ex; best epoch: 2, best val acc: 0.6917
+MIS Batch MC Pass:0, train_size:30, test_acc:0.6891, pos_lt: [116268, 64216, 70156, 28072, 53216, 93081, 25483, 47698, 110602, 23799] 
+patience ex; best epoch: 1, best val acc: 0.7348
+MIS Batch MC Pass:0, train_size:40, test_acc:0.7271, pos_lt: [29893, 20306, 74762, 102523, 94254, 71310, 103914, 17336, 37804, 88494] 
+patience ex; best epoch: 5, best val acc: 0.7324
+MIS Batch MC Pass:0, train_size:50, test_acc:0.7327, pos_lt: [92752, 17486, 57940, 20417, 71364, 42391, 93850, 1718, 16625, 62333] 
+patience ex; best epoch: 13, best val acc: 0.741
+MIS Batch MC Pass:0, train_size:60, test_acc:0.743, pos_lt: [15042, 60414, 67818, 35966, 69618, 102418, 10065, 11493, 3089, 70687] 
+patience ex; best epoch: 11, best val acc: 0.7703
+MIS Batch MC Pass:0, train_size:70, test_acc:0.7677, pos_lt: [8989, 108664, 83216, 28522, 28590, 5099, 111065, 18975, 32626, 15879] 
+patience ex; best epoch: 11, best val acc: 0.7901
+MIS Batch MC Pass:0, train_size:80, test_acc:0.7946, pos_lt: [16595, 95111, 89148, 52046, 94186, 42254, 54133, 27469, 113710, 101563] 
+patience ex; best epoch: 4, best val acc: 0.7868
+MIS Batch MC Pass:0, train_size:90, test_acc:0.7876, pos_lt: [82034, 22765, 19231, 48332, 114663, 31044, 34959, 57805, 78523, 71654] 
+patience ex; best epoch: 10, best val acc: 0.8086
+MIS Batch MC Pass:0, train_size:100, test_acc:0.8181, pos_lt: [14200, 59533, 26881, 41721, 46099, 38952, 51553, 7828, 51226, 32969] 
+patience ex; best epoch: 7, best val acc: 0.8071
+MIS Batch MC Pass:0, train_size:110, test_acc:0.8051, pos_lt: [65742, 47375, 39755, 11487, 87681, 39912, 31556, 37817, 58682, 83715] 
+patience ex; best epoch: 7, best val acc: 0.8314
+MIS Batch MC Pass:0, train_size:120, test_acc:0.8386, pos_lt: [37601, 54330, 90058, 12453, 24664, 61229, 56779, 104023, 61367, 21188] 
+patience ex; best epoch: 6, best val acc: 0.8486
+MIS Batch MC Pass:0, train_size:130, test_acc:0.8517, pos_lt: [111831, 31719, 14794, 119223, 105760, 119012, 27202, 82880, 82529, 31691] 
+patience ex; best epoch: 8, best val acc: 0.8764
+MIS Batch MC Pass:0, train_size:140, test_acc:0.8748, pos_lt: [4817, 22905, 108728, 2018, 35903, 107199, 72652, 81787, 116480, 59113] 
+patience ex; best epoch: 4, best val acc: 0.8763
+MIS Batch MC Pass:0, train_size:150, test_acc:0.8756, pos_lt: [24945, 23309, 35087, 117682, 101517, 110464, 84930, 68275, 76344, 24224] 
+patience ex; best epoch: 3, best val acc: 0.8782
+MIS Batch MC Pass:0, train_size:160, test_acc:0.8761, pos_lt: [2601, 113907, 54614, 10941, 59095, 60281, 30706, 3954, 7892, 57872] 
+patience ex; best epoch: 9, best val acc: 0.9011
+MIS Batch MC Pass:0, train_size:170, test_acc:0.9029, pos_lt: [95304, 73741, 117905, 67274, 53314, 88474, 98172, 86149, 39656, 97324] 
+patience ex; best epoch: 8, best val acc: 0.9154
+MIS Batch MC Pass:0, train_size:180, test_acc:0.9151, pos_lt: [38429, 2395, 4990, 4637, 12961, 93695, 66966, 93105, 101642, 94280] 
+patience ex; best epoch: 8, best val acc: 0.9193
+MIS Batch MC Pass:0, train_size:190, test_acc:0.9188, pos_lt: [22651, 4859, 33247, 3783, 54081, 106707, 101405, 33879, 61050, 55249] 
+patience ex; best epoch: 6, best val acc: 0.9289
+MIS Batch MC Pass:0, train_size:200, test_acc:0.9282, pos_lt: [104198, 7000, 8614, 55657, 108960, 38964, 56523, 31436, 10127, 75575] 
+patience ex; best epoch: 11, best val acc: 0.9371
+MIS Batch MC Pass:0, train_size:210, test_acc:0.9339, pos_lt: [80548, 31343, 92732, 67133, 78168, 12006, 107870, 105202, 119218, 73709] 
+patience ex; best epoch: 5, best val acc: 0.9333
+MIS Batch MC Pass:0, train_size:220, test_acc:0.9344, pos_lt: [44768, 640, 6867, 94339, 24521, 14858, 28858, 25893, 114812, 74021] 
+patience ex; best epoch: 9, best val acc: 0.9339
+MIS Batch MC Pass:0, train_size:230, test_acc:0.9372, pos_lt: [33251, 87582, 105945, 61754, 119158, 83303, 25121, 14331, 97812, 96519] 
+patience ex; best epoch: 14, best val acc: 0.9492
+MIS Batch MC Pass:0, train_size:240, test_acc:0.9532, pos_lt: [86788, 43528, 41836, 5084, 93356, 25893, 97882, 21788, 56432, 114302] 
+patience ex; best epoch: 8, best val acc: 0.9472
+MIS Batch MC Pass:0, train_size:250, test_acc:0.9525, pos_lt: [52118, 96820, 14037, 21308, 4686, 86432, 110184, 97513, 96859, 25573] 
+patience ex; best epoch: 5, best val acc: 0.9499
+MIS Batch MC Pass:0, train_size:260, test_acc:0.9531, pos_lt: [106313, 78820, 84667, 61538, 60637, 60267, 93299, 4833, 52843, 100023] 
+patience ex; best epoch: 3, best val acc: 0.947
+MIS Batch MC Pass:0, train_size:270, test_acc:0.949, pos_lt: [73654, 99307, 77461, 44505, 84901, 12332, 25470, 102571, 68732, 73219] 
+patience ex; best epoch: 10, best val acc: 0.946
+MIS Batch MC Pass:0, train_size:280, test_acc:0.9515, pos_lt: [50152, 109964, 14254, 59114, 2572, 7025, 78715, 46647, 18711, 49060] 
+patience ex; best epoch: 5, best val acc: 0.9455
+MIS Batch MC Pass:0, train_size:290, test_acc:0.9499, pos_lt: [46929, 14359, 108729, 47911, 63872, 40083, 17801, 105659, 87107, 106487] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 2, best val acc: 0.6468
+MIS Batch MC Pass:1, train_size:20, test_acc:0.6513, pos_lt: [107072, 61317, 4765, 76457, 85833, 89136, 24501, 66719, 23712, 43748] 
+patience ex; best epoch: 1, best val acc: 0.6992
+MIS Batch MC Pass:1, train_size:30, test_acc:0.6983, pos_lt: [47450, 100241, 71235, 28691, 36364, 100129, 76424, 83688, 114236, 119926] 
+patience ex; best epoch: 6, best val acc: 0.7423
+MIS Batch MC Pass:1, train_size:40, test_acc:0.7482, pos_lt: [103209, 49517, 58090, 20918, 1790, 49998, 15447, 114577, 30069, 73998] 
+patience ex; best epoch: 4, best val acc: 0.7673
+MIS Batch MC Pass:1, train_size:50, test_acc:0.7726, pos_lt: [118512, 16616, 8357, 57197, 86327, 28881, 4834, 8070, 56500, 107616] 
+patience ex; best epoch: 3, best val acc: 0.7932
+MIS Batch MC Pass:1, train_size:60, test_acc:0.805, pos_lt: [113165, 116433, 90417, 80083, 16068, 11698, 4838, 78941, 65023, 107215] 
+patience ex; best epoch: 6, best val acc: 0.7835
+MIS Batch MC Pass:1, train_size:70, test_acc:0.7927, pos_lt: [100739, 21449, 75257, 27353, 5078, 117636, 24161, 35256, 69608, 85719] 
+patience ex; best epoch: 7, best val acc: 0.7845
+MIS Batch MC Pass:1, train_size:80, test_acc:0.7917, pos_lt: [51992, 71901, 42021, 23928, 39996, 24696, 110840, 103222, 112739, 75420] 
+patience ex; best epoch: 6, best val acc: 0.7871
+MIS Batch MC Pass:1, train_size:90, test_acc:0.7917, pos_lt: [66642, 71276, 93512, 73079, 35251, 18708, 77848, 25687, 1092, 44773] 
+patience ex; best epoch: 1, best val acc: 0.8175
+MIS Batch MC Pass:1, train_size:100, test_acc:0.8199, pos_lt: [119755, 81162, 85962, 99135, 15195, 68738, 81956, 58626, 20983, 68567] 
+patience ex; best epoch: 5, best val acc: 0.8398
+MIS Batch MC Pass:1, train_size:110, test_acc:0.8428, pos_lt: [116187, 13150, 82045, 87752, 87576, 106070, 21172, 52184, 44468, 12283] 
+patience ex; best epoch: 18, best val acc: 0.8728
+MIS Batch MC Pass:1, train_size:120, test_acc:0.8747, pos_lt: [86817, 89023, 31092, 107579, 116151, 117377, 39657, 114083, 41446, 15807] 
+patience ex; best epoch: 14, best val acc: 0.8909
+MIS Batch MC Pass:1, train_size:130, test_acc:0.8893, pos_lt: [85723, 71861, 78131, 74468, 119563, 8870, 104379, 52921, 46283, 78809] 
+patience ex; best epoch: 9, best val acc: 0.8958
+MIS Batch MC Pass:1, train_size:140, test_acc:0.8978, pos_lt: [82290, 118141, 57185, 44955, 11866, 33925, 55348, 86364, 53, 27367] 
+patience ex; best epoch: 8, best val acc: 0.8908
+MIS Batch MC Pass:1, train_size:150, test_acc:0.8937, pos_lt: [104723, 4036, 37713, 109373, 5241, 10654, 39981, 3895, 11768, 47880] 
+patience ex; best epoch: 20, best val acc: 0.9146
+MIS Batch MC Pass:1, train_size:160, test_acc:0.9178, pos_lt: [49895, 82784, 97359, 101002, 71583, 90994, 75510, 113398, 83818, 91405] 
+patience ex; best epoch: 3, best val acc: 0.8941
+MIS Batch MC Pass:1, train_size:170, test_acc:0.8958, pos_lt: [50371, 21821, 64082, 13675, 83783, 31690, 106070, 36523, 47765, 20961] 
+patience ex; best epoch: 9, best val acc: 0.9154
+MIS Batch MC Pass:1, train_size:180, test_acc:0.9136, pos_lt: [118370, 92382, 82583, 87862, 37696, 23760, 72670, 108091, 3104, 12348] 
+patience ex; best epoch: 6, best val acc: 0.918
+MIS Batch MC Pass:1, train_size:190, test_acc:0.9163, pos_lt: [14407, 1151, 109053, 95721, 64474, 22866, 104215, 14953, 56794, 58207] 
+patience ex; best epoch: 5, best val acc: 0.9166
+MIS Batch MC Pass:1, train_size:200, test_acc:0.9242, pos_lt: [23312, 13684, 31411, 31184, 57213, 106833, 54842, 31734, 37540, 55841] 
+patience ex; best epoch: 13, best val acc: 0.9238
+MIS Batch MC Pass:1, train_size:210, test_acc:0.9232, pos_lt: [98642, 33091, 36205, 45862, 100465, 73611, 89903, 115974, 72000, 78569] 
+patience ex; best epoch: 10, best val acc: 0.9327
+MIS Batch MC Pass:1, train_size:220, test_acc:0.9372, pos_lt: [41863, 51996, 11502, 347, 35335, 13394, 111235, 83014, 66681, 100101] 
+patience ex; best epoch: 6, best val acc: 0.9296
+MIS Batch MC Pass:1, train_size:230, test_acc:0.9345, pos_lt: [66414, 52544, 67178, 66648, 21087, 94772, 21205, 17807, 4576, 87676] 
+patience ex; best epoch: 6, best val acc: 0.9394
+MIS Batch MC Pass:1, train_size:240, test_acc:0.9394, pos_lt: [21107, 68072, 76965, 32607, 46230, 40567, 31800, 76017, 59881, 13079] 
+patience ex; best epoch: 7, best val acc: 0.9342
+MIS Batch MC Pass:1, train_size:250, test_acc:0.9375, pos_lt: [66334, 39604, 81759, 40591, 8748, 43201, 61736, 79811, 104431, 58701] 
+patience ex; best epoch: 13, best val acc: 0.9412
+MIS Batch MC Pass:1, train_size:260, test_acc:0.9443, pos_lt: [74682, 3138, 98890, 77725, 80299, 70612, 13876, 29943, 109215, 108172] 
+patience ex; best epoch: 7, best val acc: 0.9444
+MIS Batch MC Pass:1, train_size:270, test_acc:0.9462, pos_lt: [53088, 117653, 75639, 16672, 20188, 83868, 68570, 115526, 118754, 36087] 
+patience ex; best epoch: 9, best val acc: 0.9394
+MIS Batch MC Pass:1, train_size:280, test_acc:0.9404, pos_lt: [63344, 19925, 85544, 34138, 58243, 3920, 34781, 104682, 65032, 77750] 
+patience ex; best epoch: 8, best val acc: 0.9417
+MIS Batch MC Pass:1, train_size:290, test_acc:0.9452, pos_lt: [55038, 90570, 22862, 58911, 102929, 74589, 223, 15214, 298, 68880] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 0, best val acc: 0.6413
+MIS Batch MC Pass:2, train_size:20, test_acc:0.6434, pos_lt: [80887, 102333, 30047, 89090, 47675, 27541, 112071, 49752, 15851, 94022] 
+patience ex; best epoch: 2, best val acc: 0.6724
+MIS Batch MC Pass:2, train_size:30, test_acc:0.6713, pos_lt: [44373, 90151, 46226, 35060, 5378, 116643, 754, 90912, 116023, 6014] 
+patience ex; best epoch: 8, best val acc: 0.7087
+MIS Batch MC Pass:2, train_size:40, test_acc:0.7212, pos_lt: [66420, 38702, 9910, 69854, 119191, 23656, 17696, 12692, 11662, 76462] 
+patience ex; best epoch: 3, best val acc: 0.7408
+MIS Batch MC Pass:2, train_size:50, test_acc:0.7562, pos_lt: [28591, 5553, 81838, 104147, 99874, 112340, 73901, 78559, 87231, 114103] 
+patience ex; best epoch: 1, best val acc: 0.7617
+MIS Batch MC Pass:2, train_size:60, test_acc:0.7814, pos_lt: [33050, 85996, 8449, 114891, 15322, 1155, 116921, 20186, 113250, 22663] 
+patience ex; best epoch: 7, best val acc: 0.7745
+MIS Batch MC Pass:2, train_size:70, test_acc:0.7905, pos_lt: [48477, 1510, 85708, 27762, 114293, 17301, 106126, 30472, 43962, 43813] 
+patience ex; best epoch: 1, best val acc: 0.7815
+MIS Batch MC Pass:2, train_size:80, test_acc:0.7902, pos_lt: [48069, 78545, 112034, 26504, 90488, 90299, 84097, 45490, 117937, 84624] 
+patience ex; best epoch: 7, best val acc: 0.7808
+MIS Batch MC Pass:2, train_size:90, test_acc:0.7897, pos_lt: [98058, 102056, 48979, 118701, 7272, 36905, 83125, 44545, 50846, 52814] 
+patience ex; best epoch: 3, best val acc: 0.8742
+MIS Batch MC Pass:2, train_size:100, test_acc:0.8722, pos_lt: [58981, 6830, 43311, 85247, 41016, 49580, 108157, 66594, 46328, 85365] 
+patience ex; best epoch: 2, best val acc: 0.8581
+MIS Batch MC Pass:2, train_size:110, test_acc:0.8651, pos_lt: [119840, 79931, 83450, 86417, 56476, 5359, 48150, 18088, 34650, 72395] 
+patience ex; best epoch: 6, best val acc: 0.8784
+MIS Batch MC Pass:2, train_size:120, test_acc:0.876, pos_lt: [106774, 88064, 90667, 117043, 54072, 92717, 87551, 112541, 431, 30873] 
+patience ex; best epoch: 3, best val acc: 0.8726
+MIS Batch MC Pass:2, train_size:130, test_acc:0.879, pos_lt: [32368, 79730, 91684, 85390, 52738, 46948, 76523, 61905, 4807, 99123] 
+patience ex; best epoch: 6, best val acc: 0.8863
+MIS Batch MC Pass:2, train_size:140, test_acc:0.891, pos_lt: [107649, 74189, 10934, 2876, 69968, 8411, 108024, 5181, 74836, 52626] 
+patience ex; best epoch: 5, best val acc: 0.8942
+MIS Batch MC Pass:2, train_size:150, test_acc:0.8985, pos_lt: [96154, 81805, 77216, 92149, 113583, 65232, 118314, 3421, 16656, 36062] 
+patience ex; best epoch: 4, best val acc: 0.9007
+MIS Batch MC Pass:2, train_size:160, test_acc:0.902, pos_lt: [49294, 115357, 10897, 115604, 60736, 64613, 87291, 10612, 107553, 95071] 
+patience ex; best epoch: 4, best val acc: 0.8943
+MIS Batch MC Pass:2, train_size:170, test_acc:0.8909, pos_lt: [88568, 90970, 18512, 78077, 68488, 39991, 56259, 79960, 67958, 62733] 
+patience ex; best epoch: 7, best val acc: 0.9073
+MIS Batch MC Pass:2, train_size:180, test_acc:0.9067, pos_lt: [84333, 20190, 104013, 34577, 96020, 16028, 48374, 25017, 41200, 85881] 
+patience ex; best epoch: 3, best val acc: 0.9043
+MIS Batch MC Pass:2, train_size:190, test_acc:0.9064, pos_lt: [56715, 43280, 11826, 69383, 42623, 117793, 16653, 13128, 25560, 86864] 
+patience ex; best epoch: 11, best val acc: 0.9182
+MIS Batch MC Pass:2, train_size:200, test_acc:0.92, pos_lt: [36561, 103758, 75040, 65353, 26991, 109310, 76511, 92053, 87528, 67521] 
+patience ex; best epoch: 5, best val acc: 0.9189
+MIS Batch MC Pass:2, train_size:210, test_acc:0.9259, pos_lt: [53024, 51895, 12297, 50667, 74636, 51011, 107846, 96205, 97702, 17954] 
+patience ex; best epoch: 4, best val acc: 0.9263
+MIS Batch MC Pass:2, train_size:220, test_acc:0.9302, pos_lt: [78517, 31908, 4411, 44174, 63031, 111101, 96679, 117988, 81470, 28435] 
+patience ex; best epoch: 2, best val acc: 0.92
+MIS Batch MC Pass:2, train_size:230, test_acc:0.9281, pos_lt: [71289, 12213, 42897, 76486, 82170, 119369, 109785, 80607, 116519, 41758] 
+patience ex; best epoch: 13, best val acc: 0.9239
+MIS Batch MC Pass:2, train_size:240, test_acc:0.9267, pos_lt: [102443, 88409, 15366, 5692, 99249, 56253, 35846, 84690, 46408, 1713] 
+patience ex; best epoch: 6, best val acc: 0.927
+MIS Batch MC Pass:2, train_size:250, test_acc:0.9321, pos_lt: [30134, 50413, 16860, 81358, 22318, 37341, 78691, 52339, 115939, 109174] 
+patience ex; best epoch: 6, best val acc: 0.93
+MIS Batch MC Pass:2, train_size:260, test_acc:0.9328, pos_lt: [84859, 10688, 25947, 77809, 3157, 102128, 40085, 74272, 11200, 36533] 
+patience ex; best epoch: 11, best val acc: 0.9328
+MIS Batch MC Pass:2, train_size:270, test_acc:0.9394, pos_lt: [53942, 17332, 73029, 9509, 90990, 6408, 51239, 112684, 113732, 72344] 
+patience ex; best epoch: 9, best val acc: 0.9431
+MIS Batch MC Pass:2, train_size:280, test_acc:0.946, pos_lt: [10472, 490, 113616, 92301, 48080, 114949, 2914, 69882, 34143, 98389] 
+patience ex; best epoch: 16, best val acc: 0.9397
+MIS Batch MC Pass:2, train_size:290, test_acc:0.9441, pos_lt: [92427, 86920, 116029, 74189, 71854, 12519, 31297, 89187, 32214, 47084] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 0, best val acc: 0.67
+MIS Batch MC Pass:3, train_size:20, test_acc:0.6689, pos_lt: [95635, 104826, 36716, 74625, 76606, 41366, 55800, 116672, 105917, 74343] 
+patience ex; best epoch: 5, best val acc: 0.6478
+MIS Batch MC Pass:3, train_size:30, test_acc:0.6551, pos_lt: [514, 74781, 54514, 14264, 101613, 88571, 72809, 66787, 115424, 74874] 
+patience ex; best epoch: 4, best val acc: 0.7145
+MIS Batch MC Pass:3, train_size:40, test_acc:0.7143, pos_lt: [42963, 29863, 73472, 39110, 88324, 16791, 65211, 119005, 107113, 83702] 
+patience ex; best epoch: 7, best val acc: 0.7226
+MIS Batch MC Pass:3, train_size:50, test_acc:0.725, pos_lt: [51636, 29386, 85143, 52227, 52389, 89547, 75542, 22725, 73874, 116437] 
+patience ex; best epoch: 15, best val acc: 0.7798
+MIS Batch MC Pass:3, train_size:60, test_acc:0.7845, pos_lt: [53631, 2340, 14169, 70131, 15604, 86334, 90878, 91392, 80546, 113803] 
+patience ex; best epoch: 4, best val acc: 0.8152
+MIS Batch MC Pass:3, train_size:70, test_acc:0.8241, pos_lt: [39238, 69163, 16135, 97882, 88867, 95105, 57095, 108500, 26995, 3107] 
+patience ex; best epoch: 10, best val acc: 0.8349
+MIS Batch MC Pass:3, train_size:80, test_acc:0.8418, pos_lt: [35679, 11487, 10540, 69134, 118872, 48747, 53859, 32417, 48336, 49910] 
+patience ex; best epoch: 17, best val acc: 0.8326
+MIS Batch MC Pass:3, train_size:90, test_acc:0.8388, pos_lt: [41825, 68152, 16510, 65850, 2571, 75787, 41967, 50717, 85398, 87594] 
+patience ex; best epoch: 10, best val acc: 0.8457
+MIS Batch MC Pass:3, train_size:100, test_acc:0.8509, pos_lt: [79270, 52770, 14942, 40358, 63705, 11632, 58836, 84539, 56276, 22060] 
+patience ex; best epoch: 5, best val acc: 0.8675
+MIS Batch MC Pass:3, train_size:110, test_acc:0.8728, pos_lt: [46066, 89525, 68036, 22751, 72527, 21800, 81137, 74962, 110123, 21132] 
+patience ex; best epoch: 8, best val acc: 0.8815
+MIS Batch MC Pass:3, train_size:120, test_acc:0.8847, pos_lt: [65397, 92547, 61645, 44639, 84268, 33575, 109988, 52595, 42684, 102587] 
+patience ex; best epoch: 6, best val acc: 0.8883
+MIS Batch MC Pass:3, train_size:130, test_acc:0.8845, pos_lt: [74099, 4396, 106616, 105975, 67461, 64932, 18541, 32735, 75550, 75617] 
+patience ex; best epoch: 6, best val acc: 0.8917
+MIS Batch MC Pass:3, train_size:140, test_acc:0.898, pos_lt: [82289, 62063, 109493, 99704, 80377, 116290, 27241, 116419, 17398, 111859] 
+patience ex; best epoch: 4, best val acc: 0.8887
+MIS Batch MC Pass:3, train_size:150, test_acc:0.8894, pos_lt: [88997, 81281, 99740, 25714, 88959, 89772, 2896, 36708, 108272, 11093] 
+patience ex; best epoch: 3, best val acc: 0.903
+MIS Batch MC Pass:3, train_size:160, test_acc:0.904, pos_lt: [39356, 15711, 24933, 45740, 85597, 92315, 92793, 35750, 52235, 13844] 
+patience ex; best epoch: 10, best val acc: 0.9005
+MIS Batch MC Pass:3, train_size:170, test_acc:0.912, pos_lt: [109428, 109071, 48597, 65384, 22415, 16320, 77610, 70125, 96386, 81253] 
+patience ex; best epoch: 5, best val acc: 0.904
+MIS Batch MC Pass:3, train_size:180, test_acc:0.9113, pos_lt: [73163, 102732, 33350, 119392, 28636, 11647, 82260, 36652, 95084, 52458] 
+patience ex; best epoch: 8, best val acc: 0.9028
+MIS Batch MC Pass:3, train_size:190, test_acc:0.9032, pos_lt: [24682, 63172, 25645, 27895, 39377, 28478, 93038, 94524, 8783, 38317] 
+patience ex; best epoch: 7, best val acc: 0.9239
+MIS Batch MC Pass:3, train_size:200, test_acc:0.9249, pos_lt: [39354, 68342, 52408, 52431, 60645, 63043, 29262, 69841, 96351, 47534] 
+patience ex; best epoch: 4, best val acc: 0.9203
+MIS Batch MC Pass:3, train_size:210, test_acc:0.9198, pos_lt: [102538, 12415, 22889, 21000, 108547, 379, 95083, 77235, 914, 47638] 
+patience ex; best epoch: 9, best val acc: 0.9252
+MIS Batch MC Pass:3, train_size:220, test_acc:0.9294, pos_lt: [102532, 62612, 97105, 4903, 3666, 71339, 36937, 4649, 35533, 84458] 
+patience ex; best epoch: 6, best val acc: 0.9353
+MIS Batch MC Pass:3, train_size:230, test_acc:0.941, pos_lt: [73532, 87180, 44772, 116275, 30034, 62766, 11634, 100323, 90708, 16597] 
+patience ex; best epoch: 7, best val acc: 0.9315
+MIS Batch MC Pass:3, train_size:240, test_acc:0.9318, pos_lt: [49472, 105841, 10898, 107253, 70887, 92664, 15102, 83001, 47427, 62699] 
+patience ex; best epoch: 8, best val acc: 0.9306
+MIS Batch MC Pass:3, train_size:250, test_acc:0.9338, pos_lt: [26475, 77470, 1474, 48419, 113919, 8658, 93775, 63422, 37016, 85180] 
+patience ex; best epoch: 12, best val acc: 0.9343
+MIS Batch MC Pass:3, train_size:260, test_acc:0.9364, pos_lt: [116376, 97691, 20421, 115837, 46705, 36975, 109189, 10579, 37064, 95565] 
+patience ex; best epoch: 7, best val acc: 0.9362
+MIS Batch MC Pass:3, train_size:270, test_acc:0.9372, pos_lt: [56471, 30048, 90597, 57060, 94684, 68116, 75785, 6259, 65493, 50360] 
+patience ex; best epoch: 14, best val acc: 0.942
+MIS Batch MC Pass:3, train_size:280, test_acc:0.9412, pos_lt: [10014, 80727, 93889, 45038, 53617, 10307, 15267, 74421, 6507, 112508] 
+patience ex; best epoch: 11, best val acc: 0.9472
+MIS Batch MC Pass:3, train_size:290, test_acc:0.9481, pos_lt: [36337, 59509, 65639, 114336, 39939, 1012, 37447, 19226, 95915, 108918] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 4, best val acc: 0.6529
+MIS Batch MC Pass:4, train_size:20, test_acc:0.6586, pos_lt: [73239, 53683, 23705, 77444, 78998, 83147, 111651, 6622, 92941, 77513] 
+patience ex; best epoch: 4, best val acc: 0.6645
+MIS Batch MC Pass:4, train_size:30, test_acc:0.6701, pos_lt: [6756, 83752, 42839, 43560, 75485, 116387, 98240, 100371, 17153, 107067] 
+patience ex; best epoch: 5, best val acc: 0.6604
+MIS Batch MC Pass:4, train_size:40, test_acc:0.6693, pos_lt: [32823, 88602, 16391, 94908, 9057, 45734, 39372, 110487, 74157, 53629] 
+patience ex; best epoch: 4, best val acc: 0.7446
+MIS Batch MC Pass:4, train_size:50, test_acc:0.7558, pos_lt: [39567, 118631, 107153, 100011, 38982, 41132, 41843, 45269, 75651, 92706] 
+patience ex; best epoch: 3, best val acc: 0.7732
+MIS Batch MC Pass:4, train_size:60, test_acc:0.7729, pos_lt: [54897, 26851, 46242, 39426, 86759, 29206, 28225, 42580, 79249, 93219] 
+patience ex; best epoch: 4, best val acc: 0.7734
+MIS Batch MC Pass:4, train_size:70, test_acc:0.7773, pos_lt: [88021, 6714, 90343, 29825, 27043, 32802, 86707, 38954, 602, 63871] 
+patience ex; best epoch: 6, best val acc: 0.8113
+MIS Batch MC Pass:4, train_size:80, test_acc:0.8139, pos_lt: [14, 23532, 32118, 108195, 10413, 118851, 29429, 31499, 76206, 57812] 
+patience ex; best epoch: 5, best val acc: 0.7911
+MIS Batch MC Pass:4, train_size:90, test_acc:0.8024, pos_lt: [14457, 12433, 96209, 28434, 107311, 81493, 64448, 3219, 28645, 9193] 
+patience ex; best epoch: 6, best val acc: 0.7989
+MIS Batch MC Pass:4, train_size:100, test_acc:0.8075, pos_lt: [40319, 105441, 82119, 108620, 89373, 67699, 65428, 24631, 62577, 2091] 
+patience ex; best epoch: 2, best val acc: 0.8289
+MIS Batch MC Pass:4, train_size:110, test_acc:0.8278, pos_lt: [37316, 117329, 115445, 40213, 16127, 10725, 62682, 65335, 70635, 42709] 
+patience ex; best epoch: 5, best val acc: 0.8529
+MIS Batch MC Pass:4, train_size:120, test_acc:0.8618, pos_lt: [91986, 1103, 21347, 91862, 116470, 34966, 84004, 27062, 33754, 75740] 
+patience ex; best epoch: 4, best val acc: 0.8745
+MIS Batch MC Pass:4, train_size:130, test_acc:0.8766, pos_lt: [60443, 9162, 82552, 111302, 65457, 89666, 100636, 29412, 110168, 38348] 
+patience ex; best epoch: 2, best val acc: 0.8618
+MIS Batch MC Pass:4, train_size:140, test_acc:0.8689, pos_lt: [106090, 37479, 96787, 94377, 67089, 100871, 55634, 6212, 34504, 30526] 
+patience ex; best epoch: 9, best val acc: 0.8947
+MIS Batch MC Pass:4, train_size:150, test_acc:0.9004, pos_lt: [95119, 73059, 111755, 37561, 39781, 82790, 23206, 55798, 27946, 18132] 
+patience ex; best epoch: 6, best val acc: 0.8982
+MIS Batch MC Pass:4, train_size:160, test_acc:0.9058, pos_lt: [78285, 9660, 21826, 113343, 109237, 9623, 39162, 65909, 108962, 78584] 
+patience ex; best epoch: 13, best val acc: 0.9049
+MIS Batch MC Pass:4, train_size:170, test_acc:0.9093, pos_lt: [45219, 117745, 47975, 75914, 26823, 21550, 114458, 101486, 57882, 103283] 
+patience ex; best epoch: 6, best val acc: 0.9182
+MIS Batch MC Pass:4, train_size:180, test_acc:0.9259, pos_lt: [91372, 88311, 21095, 113622, 90529, 36919, 8831, 2378, 87638, 76936] 
+patience ex; best epoch: 8, best val acc: 0.9259
+MIS Batch MC Pass:4, train_size:190, test_acc:0.9308, pos_lt: [73152, 63014, 26324, 5402, 79124, 48217, 7203, 29032, 75023, 66782] 
+patience ex; best epoch: 9, best val acc: 0.9143
+MIS Batch MC Pass:4, train_size:200, test_acc:0.9188, pos_lt: [94328, 70979, 7546, 101360, 30389, 67737, 31698, 26204, 9669, 74558] 
+patience ex; best epoch: 8, best val acc: 0.9321
+MIS Batch MC Pass:4, train_size:210, test_acc:0.936, pos_lt: [72362, 9979, 106483, 16748, 21786, 27390, 4670, 47250, 4052, 82484] 
+patience ex; best epoch: 4, best val acc: 0.926
+MIS Batch MC Pass:4, train_size:220, test_acc:0.9328, pos_lt: [22679, 55523, 113209, 107818, 117508, 95976, 83416, 53588, 755, 39070] 
+patience ex; best epoch: 4, best val acc: 0.938
+MIS Batch MC Pass:4, train_size:230, test_acc:0.9474, pos_lt: [28328, 66846, 110883, 28514, 100437, 84126, 62060, 33960, 45832, 85962] 
+patience ex; best epoch: 15, best val acc: 0.9399
+MIS Batch MC Pass:4, train_size:240, test_acc:0.9431, pos_lt: [60802, 48281, 86458, 69300, 26431, 66838, 11936, 4635, 86172, 91252] 
+patience ex; best epoch: 4, best val acc: 0.9361
+MIS Batch MC Pass:4, train_size:250, test_acc:0.9396, pos_lt: [3495, 84289, 83472, 94069, 13025, 27102, 42339, 80030, 22461, 85672] 
+patience ex; best epoch: 8, best val acc: 0.9338
+MIS Batch MC Pass:4, train_size:260, test_acc:0.9415, pos_lt: [29482, 6226, 28633, 59496, 14266, 19284, 821, 28428, 111982, 56675] 
+patience ex; best epoch: 7, best val acc: 0.9376
+MIS Batch MC Pass:4, train_size:270, test_acc:0.943, pos_lt: [117715, 17837, 66156, 701, 37021, 18804, 118107, 101444, 81653, 29691] 
+patience ex; best epoch: 13, best val acc: 0.9456
+MIS Batch MC Pass:4, train_size:280, test_acc:0.9518, pos_lt: [36671, 104339, 51323, 26451, 17687, 71722, 114110, 42310, 107885, 108935] 
+patience ex; best epoch: 23, best val acc: 0.9474
+MIS Batch MC Pass:4, train_size:290, test_acc:0.9528, pos_lt: [55463, 35292, 63756, 12937, 39312, 107691, 94500, 115469, 114437, 23759] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 0, best val acc: 0.6558
+MIS Batch MC Pass:5, train_size:20, test_acc:0.6581, pos_lt: [113503, 73437, 71834, 59679, 48947, 36135, 89406, 107164, 102916, 86002] 
+patience ex; best epoch: 3, best val acc: 0.6628
+MIS Batch MC Pass:5, train_size:30, test_acc:0.6633, pos_lt: [77700, 85199, 52563, 55968, 6455, 36749, 51980, 28024, 106939, 71117] 
+patience ex; best epoch: 6, best val acc: 0.7128
+MIS Batch MC Pass:5, train_size:40, test_acc:0.7122, pos_lt: [51537, 74385, 74355, 94529, 103288, 33348, 54913, 83604, 38393, 100274] 
+patience ex; best epoch: 8, best val acc: 0.7471
+MIS Batch MC Pass:5, train_size:50, test_acc:0.7594, pos_lt: [116537, 108560, 89973, 89396, 103975, 86943, 52647, 87992, 51398, 22086] 
+patience ex; best epoch: 5, best val acc: 0.788
+MIS Batch MC Pass:5, train_size:60, test_acc:0.7873, pos_lt: [30506, 78136, 9595, 52210, 53964, 93603, 113254, 67731, 41956, 24806] 
+patience ex; best epoch: 14, best val acc: 0.8033
+MIS Batch MC Pass:5, train_size:70, test_acc:0.8019, pos_lt: [73736, 17602, 112068, 23988, 118296, 80541, 69385, 55655, 9539, 83738] 
+patience ex; best epoch: 4, best val acc: 0.8054
+MIS Batch MC Pass:5, train_size:80, test_acc:0.8129, pos_lt: [54196, 34364, 43146, 63904, 111085, 28773, 27373, 30005, 93298, 108433] 
+patience ex; best epoch: 1, best val acc: 0.7927
+MIS Batch MC Pass:5, train_size:90, test_acc:0.7894, pos_lt: [47540, 85022, 114166, 37024, 91544, 68288, 38307, 39989, 95328, 53803] 
+patience ex; best epoch: 3, best val acc: 0.8314
+MIS Batch MC Pass:5, train_size:100, test_acc:0.8414, pos_lt: [31149, 20716, 52179, 96070, 47565, 68339, 26411, 107323, 61570, 85626] 
+patience ex; best epoch: 7, best val acc: 0.8589
+MIS Batch MC Pass:5, train_size:110, test_acc:0.8635, pos_lt: [112974, 69263, 107273, 79216, 103015, 114321, 72872, 37302, 112468, 94022] 
+patience ex; best epoch: 4, best val acc: 0.8631
+MIS Batch MC Pass:5, train_size:120, test_acc:0.8685, pos_lt: [1573, 92516, 40685, 41154, 39887, 81714, 30542, 29033, 105768, 12037] 
+patience ex; best epoch: 8, best val acc: 0.8792
+MIS Batch MC Pass:5, train_size:130, test_acc:0.8917, pos_lt: [49317, 46197, 11616, 9460, 64184, 32520, 38887, 39447, 85537, 110844] 
+patience ex; best epoch: 5, best val acc: 0.8745
+MIS Batch MC Pass:5, train_size:140, test_acc:0.8804, pos_lt: [27758, 86561, 3107, 47791, 73547, 17883, 83268, 119128, 40122, 88816] 
+patience ex; best epoch: 5, best val acc: 0.8917
+MIS Batch MC Pass:5, train_size:150, test_acc:0.8984, pos_lt: [53057, 100144, 5009, 57572, 35748, 78379, 38803, 98216, 37219, 37182] 
+patience ex; best epoch: 12, best val acc: 0.9168
+MIS Batch MC Pass:5, train_size:160, test_acc:0.9223, pos_lt: [31283, 105077, 101118, 50794, 83395, 106306, 53885, 115140, 96055, 85347] 
+patience ex; best epoch: 6, best val acc: 0.8988
+MIS Batch MC Pass:5, train_size:170, test_acc:0.9058, pos_lt: [111713, 54882, 16512, 91550, 72401, 73408, 92885, 61243, 89769, 116003] 
+patience ex; best epoch: 5, best val acc: 0.9002
+MIS Batch MC Pass:5, train_size:180, test_acc:0.9059, pos_lt: [36013, 24201, 64955, 114166, 80771, 22950, 95770, 60757, 15011, 90324] 
+patience ex; best epoch: 4, best val acc: 0.9079
+MIS Batch MC Pass:5, train_size:190, test_acc:0.9136, pos_lt: [75648, 954, 76304, 20427, 47246, 4615, 39074, 75174, 76987, 125] 
+patience ex; best epoch: 9, best val acc: 0.9188
+MIS Batch MC Pass:5, train_size:200, test_acc:0.9226, pos_lt: [77236, 66471, 68384, 119744, 61509, 84641, 2964, 49237, 33971, 17555] 
+patience ex; best epoch: 8, best val acc: 0.937
+MIS Batch MC Pass:5, train_size:210, test_acc:0.9362, pos_lt: [33374, 70990, 14287, 88377, 32114, 97393, 113210, 52418, 8063, 85324] 
+patience ex; best epoch: 5, best val acc: 0.9328
+MIS Batch MC Pass:5, train_size:220, test_acc:0.935, pos_lt: [41067, 36039, 87207, 7640, 32647, 63239, 59976, 85220, 56399, 35036] 
+patience ex; best epoch: 13, best val acc: 0.9276
+MIS Batch MC Pass:5, train_size:230, test_acc:0.9311, pos_lt: [32010, 119634, 8142, 57855, 116453, 58693, 58831, 12686, 118226, 93451] 
+patience ex; best epoch: 8, best val acc: 0.9255
+MIS Batch MC Pass:5, train_size:240, test_acc:0.9287, pos_lt: [91712, 1809, 62383, 97968, 6241, 74804, 90000, 92079, 23292, 102219] 
+patience ex; best epoch: 13, best val acc: 0.9323
+MIS Batch MC Pass:5, train_size:250, test_acc:0.935, pos_lt: [89003, 4400, 45230, 25431, 31733, 10718, 60749, 117711, 92787, 80112] 
+patience ex; best epoch: 12, best val acc: 0.9399
+MIS Batch MC Pass:5, train_size:260, test_acc:0.9429, pos_lt: [45633, 58453, 93598, 51398, 95982, 103296, 31060, 20324, 37764, 49084] 
+patience ex; best epoch: 6, best val acc: 0.9406
+MIS Batch MC Pass:5, train_size:270, test_acc:0.9393, pos_lt: [72366, 2221, 44814, 72953, 80840, 33824, 53505, 70411, 50320, 70635] 
+patience ex; best epoch: 7, best val acc: 0.9442
+MIS Batch MC Pass:5, train_size:280, test_acc:0.9487, pos_lt: [111945, 117459, 86139, 53812, 52481, 109840, 104283, 27747, 18937, 117126] 
+patience ex; best epoch: 19, best val acc: 0.9462
+MIS Batch MC Pass:5, train_size:290, test_acc:0.9515, pos_lt: [28448, 86618, 38006, 91807, 21033, 6441, 23745, 64189, 115391, 65803] 

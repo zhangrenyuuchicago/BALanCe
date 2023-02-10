@@ -1,0 +1,714 @@
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 3, best val acc: 0.6592
+max acq sample value
+0.9465752503926982
+PowerBALanCe Pass:0, train_size:20, test_acc:0.6611, pos_lt: [79354, 36909, 115479, 38095, 118873, 43956, 11969, 56853, 60580, 95512] 
+patience ex; best epoch: 1, best val acc: 0.7439
+max acq sample value
+0.9606185908146219
+PowerBALanCe Pass:0, train_size:30, test_acc:0.7337, pos_lt: [47945, 35314, 92333, 86534, 110294, 5525, 91668, 98451, 22891, 74932] 
+patience ex; best epoch: 4, best val acc: 0.8094
+max acq sample value
+0.9499841693462057
+PowerBALanCe Pass:0, train_size:40, test_acc:0.8107, pos_lt: [110724, 100182, 93488, 105418, 110267, 33167, 107245, 86623, 57868, 53935] 
+patience ex; best epoch: 3, best val acc: 0.8332
+max acq sample value
+0.9373428992632116
+PowerBALanCe Pass:0, train_size:50, test_acc:0.8395, pos_lt: [57324, 20611, 115801, 56227, 96460, 46563, 57400, 39510, 101111, 60868] 
+patience ex; best epoch: 10, best val acc: 0.8567
+max acq sample value
+0.9462657718241454
+PowerBALanCe Pass:0, train_size:60, test_acc:0.8598, pos_lt: [51264, 74721, 83977, 104555, 60675, 101229, 62976, 50229, 75796, 39355] 
+patience ex; best epoch: 6, best val acc: 0.859
+max acq sample value
+0.9470268662827285
+PowerBALanCe Pass:0, train_size:70, test_acc:0.8636, pos_lt: [24465, 17344, 112755, 77119, 109087, 111694, 67787, 118300, 82623, 13143] 
+patience ex; best epoch: 6, best val acc: 0.8658
+max acq sample value
+0.9506773637013398
+PowerBALanCe Pass:0, train_size:80, test_acc:0.8692, pos_lt: [53815, 2163, 1769, 13080, 115451, 98087, 26142, 115004, 27648, 101897] 
+patience ex; best epoch: 7, best val acc: 0.8913
+max acq sample value
+0.9554980635683802
+PowerBALanCe Pass:0, train_size:90, test_acc:0.8981, pos_lt: [65728, 86612, 91412, 86522, 114131, 51857, 102858, 37034, 6052, 104103] 
+patience ex; best epoch: 9, best val acc: 0.8951
+max acq sample value
+0.9353398230708092
+PowerBALanCe Pass:0, train_size:100, test_acc:0.8963, pos_lt: [11366, 2846, 16274, 25338, 55517, 37036, 54728, 71754, 35519, 74904] 
+patience ex; best epoch: 8, best val acc: 0.9053
+max acq sample value
+0.9466399377864403
+PowerBALanCe Pass:0, train_size:110, test_acc:0.9118, pos_lt: [111822, 89933, 35215, 74713, 35705, 113152, 61491, 55801, 5926, 96163] 
+patience ex; best epoch: 16, best val acc: 0.9201
+max acq sample value
+0.9576434836539954
+PowerBALanCe Pass:0, train_size:120, test_acc:0.9236, pos_lt: [49907, 52989, 52696, 50114, 93945, 107291, 14945, 72996, 39908, 81917] 
+patience ex; best epoch: 5, best val acc: 0.9146
+max acq sample value
+0.9477050431487202
+PowerBALanCe Pass:0, train_size:130, test_acc:0.9195, pos_lt: [25062, 20737, 84362, 101130, 111433, 32601, 11386, 110122, 59140, 25254] 
+patience ex; best epoch: 13, best val acc: 0.9193
+max acq sample value
+0.952508385758805
+PowerBALanCe Pass:0, train_size:140, test_acc:0.9278, pos_lt: [112170, 13885, 105584, 45158, 8882, 32931, 13141, 17332, 8234, 55077] 
+patience ex; best epoch: 8, best val acc: 0.929
+max acq sample value
+0.9503625102053033
+PowerBALanCe Pass:0, train_size:150, test_acc:0.9353, pos_lt: [48438, 60309, 113480, 1901, 41737, 58647, 60540, 95904, 59685, 3585] 
+patience ex; best epoch: 15, best val acc: 0.9309
+max acq sample value
+0.9498447443880761
+PowerBALanCe Pass:0, train_size:160, test_acc:0.9375, pos_lt: [72269, 21053, 91494, 112584, 104220, 78778, 55822, 11274, 94415, 61860] 
+patience ex; best epoch: 7, best val acc: 0.9308
+max acq sample value
+0.9325871893691335
+PowerBALanCe Pass:0, train_size:170, test_acc:0.9353, pos_lt: [111004, 113143, 37728, 13201, 113085, 88015, 51854, 47924, 6631, 113677] 
+patience ex; best epoch: 10, best val acc: 0.9379
+max acq sample value
+0.9437328158310954
+PowerBALanCe Pass:0, train_size:180, test_acc:0.9409, pos_lt: [93538, 24043, 63829, 34457, 47106, 39353, 27837, 108587, 48629, 57053] 
+patience ex; best epoch: 12, best val acc: 0.9407
+max acq sample value
+0.9414272688597423
+PowerBALanCe Pass:0, train_size:190, test_acc:0.944, pos_lt: [93293, 108494, 53287, 74562, 8382, 18532, 104955, 110296, 15214, 63785] 
+patience ex; best epoch: 7, best val acc: 0.9409
+max acq sample value
+0.9443077495874735
+PowerBALanCe Pass:0, train_size:200, test_acc:0.9434, pos_lt: [5408, 76279, 25174, 47639, 95636, 23436, 112049, 46391, 54356, 42561] 
+patience ex; best epoch: 7, best val acc: 0.946
+max acq sample value
+0.9376089881047175
+PowerBALanCe Pass:0, train_size:210, test_acc:0.948, pos_lt: [45118, 51762, 90703, 44894, 6940, 92077, 114508, 113391, 105258, 22173] 
+patience ex; best epoch: 7, best val acc: 0.9463
+max acq sample value
+0.933377755455215
+PowerBALanCe Pass:0, train_size:220, test_acc:0.9471, pos_lt: [97175, 48190, 48674, 15494, 21893, 118665, 56114, 60688, 70778, 112231] 
+patience ex; best epoch: 10, best val acc: 0.9501
+max acq sample value
+0.9465540108035014
+PowerBALanCe Pass:0, train_size:230, test_acc:0.9543, pos_lt: [109155, 1763, 50356, 16936, 79498, 81468, 62329, 44521, 118397, 34330] 
+patience ex; best epoch: 19, best val acc: 0.9543
+max acq sample value
+0.9420815799286748
+PowerBALanCe Pass:0, train_size:240, test_acc:0.9545, pos_lt: [115849, 10573, 26408, 18568, 22269, 23081, 7494, 21315, 94676, 70525] 
+patience ex; best epoch: 7, best val acc: 0.9479
+max acq sample value
+0.9373068088172023
+PowerBALanCe Pass:0, train_size:250, test_acc:0.9544, pos_lt: [1814, 95708, 91291, 64859, 119205, 113264, 45332, 59039, 39553, 37874] 
+patience ex; best epoch: 16, best val acc: 0.9565
+max acq sample value
+0.9397849696575542
+PowerBALanCe Pass:0, train_size:260, test_acc:0.9588, pos_lt: [7151, 22938, 83842, 12936, 31791, 50092, 19809, 29058, 71977, 14606] 
+patience ex; best epoch: 6, best val acc: 0.9575
+max acq sample value
+0.9246933231277447
+PowerBALanCe Pass:0, train_size:270, test_acc:0.9587, pos_lt: [67095, 95401, 104913, 112515, 33089, 115137, 113347, 67017, 12656, 20060] 
+patience ex; best epoch: 21, best val acc: 0.9597
+max acq sample value
+0.9443099040676768
+PowerBALanCe Pass:0, train_size:280, test_acc:0.9606, pos_lt: [79747, 44181, 66174, 93707, 12476, 56584, 72664, 1595, 74521, 8236] 
+patience ex; best epoch: 18, best val acc: 0.96
+max acq sample value
+0.9554775092513406
+PowerBALanCe Pass:0, train_size:290, test_acc:0.9581, pos_lt: [18284, 38519, 15693, 111224, 29385, 63086, 98645, 101342, 111918, 85533] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 5, best val acc: 0.6702
+max acq sample value
+0.9597302920626111
+PowerBALanCe Pass:1, train_size:20, test_acc:0.6757, pos_lt: [23171, 22566, 762, 26708, 56938, 67791, 39539, 8808, 109517, 105772] 
+patience ex; best epoch: 1, best val acc: 0.7204
+max acq sample value
+0.938403594547613
+PowerBALanCe Pass:1, train_size:30, test_acc:0.7158, pos_lt: [10212, 37549, 41719, 72509, 119133, 99507, 42296, 106961, 98728, 87917] 
+patience ex; best epoch: 14, best val acc: 0.8277
+max acq sample value
+0.954413434856462
+PowerBALanCe Pass:1, train_size:40, test_acc:0.8353, pos_lt: [94878, 15001, 50286, 110732, 4503, 88545, 28431, 8633, 91554, 55093] 
+patience ex; best epoch: 7, best val acc: 0.8428
+max acq sample value
+0.9488803708588829
+PowerBALanCe Pass:1, train_size:50, test_acc:0.85, pos_lt: [64127, 35096, 79768, 23001, 92230, 63156, 111032, 61927, 35452, 8708] 
+patience ex; best epoch: 2, best val acc: 0.8434
+max acq sample value
+0.9299984606965873
+PowerBALanCe Pass:1, train_size:60, test_acc:0.8481, pos_lt: [111916, 48924, 14437, 97362, 71856, 119426, 8286, 29942, 63386, 93094] 
+patience ex; best epoch: 3, best val acc: 0.8617
+max acq sample value
+0.936375331459161
+PowerBALanCe Pass:1, train_size:70, test_acc:0.8623, pos_lt: [28755, 85600, 115369, 43590, 30350, 21490, 15970, 13127, 32196, 88217] 
+patience ex; best epoch: 13, best val acc: 0.8669
+max acq sample value
+0.9475408514476907
+PowerBALanCe Pass:1, train_size:80, test_acc:0.8765, pos_lt: [114625, 49748, 37025, 85577, 96478, 4141, 46926, 8812, 57396, 34067] 
+patience ex; best epoch: 7, best val acc: 0.8966
+max acq sample value
+0.9564504831440824
+PowerBALanCe Pass:1, train_size:90, test_acc:0.9021, pos_lt: [60559, 90993, 1929, 9112, 47759, 86574, 104853, 78403, 90772, 18428] 
+patience ex; best epoch: 8, best val acc: 0.9062
+max acq sample value
+0.9606177945939604
+PowerBALanCe Pass:1, train_size:100, test_acc:0.9092, pos_lt: [99743, 13553, 1563, 25915, 14250, 68884, 76210, 86639, 49506, 6846] 
+patience ex; best epoch: 3, best val acc: 0.9048
+max acq sample value
+0.9378762577209209
+PowerBALanCe Pass:1, train_size:110, test_acc:0.9087, pos_lt: [38515, 107993, 14270, 117976, 35438, 8066, 98682, 92309, 38583, 94438] 
+patience ex; best epoch: 4, best val acc: 0.9074
+max acq sample value
+0.9366131754794825
+PowerBALanCe Pass:1, train_size:120, test_acc:0.9156, pos_lt: [86067, 46631, 24014, 1634, 28779, 40720, 4316, 119056, 68929, 57833] 
+patience ex; best epoch: 7, best val acc: 0.9227
+max acq sample value
+0.9596658488217948
+PowerBALanCe Pass:1, train_size:130, test_acc:0.9325, pos_lt: [61813, 65656, 81279, 89711, 51039, 67629, 31491, 117514, 96037, 98750] 
+patience ex; best epoch: 3, best val acc: 0.9265
+max acq sample value
+0.9369701374207053
+PowerBALanCe Pass:1, train_size:140, test_acc:0.9326, pos_lt: [57770, 70731, 67457, 7790, 89800, 29515, 108858, 102218, 51638, 52226] 
+patience ex; best epoch: 5, best val acc: 0.9335
+max acq sample value
+0.9351778711880676
+PowerBALanCe Pass:1, train_size:150, test_acc:0.9369, pos_lt: [7933, 21889, 91814, 8057, 13144, 20651, 110139, 64104, 92012, 22248] 
+patience ex; best epoch: 12, best val acc: 0.94
+max acq sample value
+0.9527435935457516
+PowerBALanCe Pass:1, train_size:160, test_acc:0.9428, pos_lt: [63854, 76272, 65964, 86654, 45160, 58998, 11141, 73277, 103999, 34623] 
+patience ex; best epoch: 5, best val acc: 0.9338
+max acq sample value
+0.9375362236409954
+PowerBALanCe Pass:1, train_size:170, test_acc:0.9388, pos_lt: [8626, 29939, 65726, 43287, 39947, 67340, 30467, 45430, 19712, 14165] 
+patience ex; best epoch: 11, best val acc: 0.9404
+max acq sample value
+0.9487501829283466
+PowerBALanCe Pass:1, train_size:180, test_acc:0.9437, pos_lt: [33304, 112890, 35954, 84172, 26884, 26073, 119033, 29175, 57699, 113769] 
+patience ex; best epoch: 13, best val acc: 0.9481
+max acq sample value
+0.9363416074643816
+PowerBALanCe Pass:1, train_size:190, test_acc:0.9477, pos_lt: [64273, 39612, 34006, 58458, 13602, 65337, 53377, 96344, 37162, 51194] 
+patience ex; best epoch: 7, best val acc: 0.9322
+max acq sample value
+0.9377656213738856
+PowerBALanCe Pass:1, train_size:200, test_acc:0.935, pos_lt: [72801, 3285, 90924, 35154, 86044, 66744, 46321, 26647, 26673, 82725] 
+patience ex; best epoch: 13, best val acc: 0.9418
+max acq sample value
+0.9542765169882647
+PowerBALanCe Pass:1, train_size:210, test_acc:0.9462, pos_lt: [3327, 80524, 75100, 20818, 101476, 84866, 78024, 57716, 46826, 63914] 
+patience ex; best epoch: 12, best val acc: 0.9474
+max acq sample value
+0.9459780826411529
+PowerBALanCe Pass:1, train_size:220, test_acc:0.9502, pos_lt: [77986, 54584, 41259, 69580, 10267, 57472, 111837, 101088, 1799, 8788] 
+patience ex; best epoch: 7, best val acc: 0.943
+max acq sample value
+0.9419081154980735
+PowerBALanCe Pass:1, train_size:230, test_acc:0.9425, pos_lt: [67081, 35656, 107235, 39067, 47435, 66000, 108395, 35250, 70488, 75637] 
+patience ex; best epoch: 11, best val acc: 0.9478
+max acq sample value
+0.944069808237337
+PowerBALanCe Pass:1, train_size:240, test_acc:0.9477, pos_lt: [111250, 114127, 26685, 51726, 110975, 108090, 102873, 104200, 93827, 110000] 
+patience ex; best epoch: 9, best val acc: 0.942
+max acq sample value
+0.9452985951325955
+PowerBALanCe Pass:1, train_size:250, test_acc:0.9464, pos_lt: [94450, 22221, 44538, 56227, 49557, 113432, 2842, 69687, 65139, 30061] 
+patience ex; best epoch: 13, best val acc: 0.9503
+max acq sample value
+0.9421434838803345
+PowerBALanCe Pass:1, train_size:260, test_acc:0.95, pos_lt: [40712, 56451, 69161, 10459, 109768, 89551, 50315, 32632, 8042, 90530] 
+patience ex; best epoch: 16, best val acc: 0.9502
+max acq sample value
+0.9449778684955179
+PowerBALanCe Pass:1, train_size:270, test_acc:0.9536, pos_lt: [14560, 26465, 84069, 62499, 61916, 66422, 58122, 1275, 14926, 9173] 
+patience ex; best epoch: 13, best val acc: 0.9557
+max acq sample value
+0.9389737962686563
+PowerBALanCe Pass:1, train_size:280, test_acc:0.9539, pos_lt: [100060, 7580, 43, 63639, 92451, 102585, 13137, 59276, 45739, 92415] 
+patience ex; best epoch: 13, best val acc: 0.9553
+max acq sample value
+0.945208442462271
+PowerBALanCe Pass:1, train_size:290, test_acc:0.9553, pos_lt: [77713, 108750, 48774, 57819, 50524, 70686, 91525, 94452, 104161, 68719] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 4, best val acc: 0.6711
+max acq sample value
+0.9596903639029192
+PowerBALanCe Pass:2, train_size:20, test_acc:0.6683, pos_lt: [114618, 31003, 11575, 111617, 78597, 39254, 26530, 19618, 86565, 63976] 
+patience ex; best epoch: 6, best val acc: 0.7323
+max acq sample value
+0.943323339407694
+PowerBALanCe Pass:2, train_size:30, test_acc:0.7503, pos_lt: [79899, 6708, 97488, 115245, 92013, 4920, 85945, 38982, 13152, 100310] 
+patience ex; best epoch: 4, best val acc: 0.7358
+max acq sample value
+0.9408162993194357
+PowerBALanCe Pass:2, train_size:40, test_acc:0.7438, pos_lt: [1600, 94873, 47624, 54183, 87282, 34485, 75358, 67799, 108723, 109345] 
+patience ex; best epoch: 7, best val acc: 0.7723
+max acq sample value
+0.9648983693426338
+PowerBALanCe Pass:2, train_size:50, test_acc:0.7786, pos_lt: [97584, 26807, 1581, 43087, 25380, 34647, 68989, 89447, 100167, 40828] 
+patience ex; best epoch: 3, best val acc: 0.8554
+max acq sample value
+0.9366775390289939
+PowerBALanCe Pass:2, train_size:60, test_acc:0.8596, pos_lt: [64018, 98471, 46939, 117135, 30304, 58891, 15521, 2040, 116125, 110656] 
+patience ex; best epoch: 14, best val acc: 0.8735
+max acq sample value
+0.9578128513368572
+PowerBALanCe Pass:2, train_size:70, test_acc:0.8731, pos_lt: [27796, 33672, 40253, 58614, 55865, 101511, 67778, 95134, 3364, 107721] 
+patience ex; best epoch: 2, best val acc: 0.882
+max acq sample value
+0.9501038389472036
+PowerBALanCe Pass:2, train_size:80, test_acc:0.8803, pos_lt: [55201, 47721, 61573, 42628, 102770, 92506, 89771, 70130, 88798, 19950] 
+patience ex; best epoch: 2, best val acc: 0.8876
+max acq sample value
+0.9477210113673654
+PowerBALanCe Pass:2, train_size:90, test_acc:0.8914, pos_lt: [7686, 93703, 69564, 6519, 81717, 18927, 80900, 6095, 24930, 108598] 
+patience ex; best epoch: 9, best val acc: 0.8999
+max acq sample value
+0.9487953780926263
+PowerBALanCe Pass:2, train_size:100, test_acc:0.8994, pos_lt: [95118, 84182, 116658, 11650, 95908, 107319, 32287, 58708, 44739, 109367] 
+patience ex; best epoch: 7, best val acc: 0.9026
+max acq sample value
+0.9386632943425788
+PowerBALanCe Pass:2, train_size:110, test_acc:0.9068, pos_lt: [94218, 113261, 64828, 44788, 21786, 79301, 100359, 25970, 103324, 107339] 
+patience ex; best epoch: 3, best val acc: 0.9151
+max acq sample value
+0.9361207155867755
+PowerBALanCe Pass:2, train_size:120, test_acc:0.9167, pos_lt: [18327, 102722, 91198, 80003, 19948, 79983, 16786, 75137, 85800, 89436] 
+patience ex; best epoch: 9, best val acc: 0.9195
+max acq sample value
+0.9450945253217689
+PowerBALanCe Pass:2, train_size:130, test_acc:0.9244, pos_lt: [53078, 12050, 40408, 89905, 5415, 86294, 55937, 58114, 51223, 92006] 
+patience ex; best epoch: 22, best val acc: 0.9235
+max acq sample value
+0.9556513272925965
+PowerBALanCe Pass:2, train_size:140, test_acc:0.9257, pos_lt: [27961, 25941, 88253, 53393, 105848, 13210, 63510, 108136, 24415, 51138] 
+patience ex; best epoch: 4, best val acc: 0.9228
+max acq sample value
+0.938087657151673
+PowerBALanCe Pass:2, train_size:150, test_acc:0.9228, pos_lt: [15433, 85847, 78626, 31584, 39286, 42338, 8734, 39800, 74374, 92007] 
+patience ex; best epoch: 9, best val acc: 0.9306
+max acq sample value
+0.9505246718297099
+PowerBALanCe Pass:2, train_size:160, test_acc:0.9313, pos_lt: [61785, 715, 86873, 43701, 105679, 53679, 102752, 101313, 42801, 108875] 
+patience ex; best epoch: 11, best val acc: 0.9366
+max acq sample value
+0.9424361549224517
+PowerBALanCe Pass:2, train_size:170, test_acc:0.9402, pos_lt: [76943, 55799, 42651, 80978, 24221, 108554, 51694, 51346, 16592, 98944] 
+patience ex; best epoch: 10, best val acc: 0.9453
+max acq sample value
+0.952210083057269
+PowerBALanCe Pass:2, train_size:180, test_acc:0.9498, pos_lt: [74892, 105690, 21096, 32053, 119248, 85879, 119491, 111041, 12659, 33520] 
+patience ex; best epoch: 8, best val acc: 0.9434
+max acq sample value
+0.9468637788995673
+PowerBALanCe Pass:2, train_size:190, test_acc:0.9482, pos_lt: [56961, 55421, 113386, 56829, 28167, 3756, 77181, 17276, 6574, 65604] 
+patience ex; best epoch: 12, best val acc: 0.9485
+max acq sample value
+0.9520492151673859
+PowerBALanCe Pass:2, train_size:200, test_acc:0.9544, pos_lt: [119230, 92437, 19653, 53684, 87697, 91251, 56351, 37268, 78140, 1554] 
+patience ex; best epoch: 12, best val acc: 0.9524
+max acq sample value
+0.9463257149965848
+PowerBALanCe Pass:2, train_size:210, test_acc:0.9578, pos_lt: [46889, 40758, 113855, 66151, 19966, 82576, 48066, 41511, 12743, 74710] 
+patience ex; best epoch: 8, best val acc: 0.9505
+max acq sample value
+0.9504794103603027
+PowerBALanCe Pass:2, train_size:220, test_acc:0.9535, pos_lt: [55642, 13750, 79287, 115145, 97785, 21286, 75867, 14514, 35529, 14284] 
+patience ex; best epoch: 11, best val acc: 0.9526
+max acq sample value
+0.9482163458297879
+PowerBALanCe Pass:2, train_size:230, test_acc:0.9584, pos_lt: [4190, 117565, 70963, 61456, 1016, 50942, 90112, 119159, 70456, 48068] 
+patience ex; best epoch: 15, best val acc: 0.9517
+max acq sample value
+0.9452351637516546
+PowerBALanCe Pass:2, train_size:240, test_acc:0.9578, pos_lt: [43466, 91531, 55790, 61050, 24445, 83757, 96255, 18197, 29595, 83561] 
+patience ex; best epoch: 18, best val acc: 0.9588
+max acq sample value
+0.9517847056146573
+PowerBALanCe Pass:2, train_size:250, test_acc:0.9634, pos_lt: [24804, 65901, 73170, 76525, 88047, 63950, 22676, 102178, 117393, 82923] 
+patience ex; best epoch: 9, best val acc: 0.9524
+max acq sample value
+0.9413839305473803
+PowerBALanCe Pass:2, train_size:260, test_acc:0.9569, pos_lt: [30773, 24217, 107121, 77595, 83559, 91091, 74307, 43888, 52998, 86977] 
+patience ex; best epoch: 9, best val acc: 0.9574
+max acq sample value
+0.9451201658435832
+PowerBALanCe Pass:2, train_size:270, test_acc:0.9603, pos_lt: [8699, 22682, 8848, 106024, 23207, 60430, 90297, 39928, 24378, 69227] 
+patience ex; best epoch: 15, best val acc: 0.9586
+max acq sample value
+0.9441229169038584
+PowerBALanCe Pass:2, train_size:280, test_acc:0.9622, pos_lt: [21242, 34171, 43084, 26247, 52196, 58034, 77024, 111737, 8016, 21744] 
+patience ex; best epoch: 17, best val acc: 0.9617
+max acq sample value
+0.9517992436030929
+PowerBALanCe Pass:2, train_size:290, test_acc:0.9658, pos_lt: [37702, 78572, 49080, 47384, 70231, 14438, 41422, 60979, 2896, 70129] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 1, best val acc: 0.6566
+max acq sample value
+0.946835669332523
+PowerBALanCe Pass:3, train_size:20, test_acc:0.6537, pos_lt: [37926, 63579, 26068, 115167, 101979, 97422, 107777, 102598, 83405, 101855] 
+patience ex; best epoch: 2, best val acc: 0.6897
+max acq sample value
+0.9581207272765249
+PowerBALanCe Pass:3, train_size:30, test_acc:0.691, pos_lt: [29982, 74119, 92572, 28863, 33132, 91611, 64387, 50524, 112292, 51866] 
+patience ex; best epoch: 1, best val acc: 0.7771
+max acq sample value
+0.9225586151471148
+PowerBALanCe Pass:3, train_size:40, test_acc:0.7736, pos_lt: [58923, 89606, 71657, 67657, 17619, 24333, 74823, 22848, 91046, 47631] 
+patience ex; best epoch: 5, best val acc: 0.8274
+max acq sample value
+0.9515800502764702
+PowerBALanCe Pass:3, train_size:50, test_acc:0.8303, pos_lt: [100753, 43291, 76421, 100555, 48634, 23202, 4002, 100185, 33155, 101737] 
+patience ex; best epoch: 2, best val acc: 0.8339
+max acq sample value
+0.9439194000962812
+PowerBALanCe Pass:3, train_size:60, test_acc:0.8414, pos_lt: [113509, 79947, 8786, 1027, 16660, 49682, 115747, 15272, 24163, 107389] 
+patience ex; best epoch: 13, best val acc: 0.8592
+max acq sample value
+0.9540458617306555
+PowerBALanCe Pass:3, train_size:70, test_acc:0.8726, pos_lt: [81567, 25262, 78448, 3338, 115394, 60230, 93319, 25000, 118694, 108698] 
+patience ex; best epoch: 8, best val acc: 0.8677
+max acq sample value
+0.9568791294564662
+PowerBALanCe Pass:3, train_size:80, test_acc:0.8795, pos_lt: [10341, 77972, 44801, 115286, 115358, 68803, 14838, 38953, 63085, 52330] 
+patience ex; best epoch: 8, best val acc: 0.8828
+max acq sample value
+0.9419053864707237
+PowerBALanCe Pass:3, train_size:90, test_acc:0.8891, pos_lt: [57173, 72102, 32770, 7625, 33025, 18751, 46543, 44469, 23093, 73317] 
+patience ex; best epoch: 9, best val acc: 0.8954
+max acq sample value
+0.9492213841042507
+PowerBALanCe Pass:3, train_size:100, test_acc:0.903, pos_lt: [115111, 113432, 35822, 34625, 112433, 82070, 46333, 34616, 22943, 115153] 
+patience ex; best epoch: 6, best val acc: 0.9076
+max acq sample value
+0.9636799958937702
+PowerBALanCe Pass:3, train_size:110, test_acc:0.9155, pos_lt: [61146, 22689, 36192, 3458, 82403, 57980, 36486, 58833, 47108, 109300] 
+patience ex; best epoch: 9, best val acc: 0.9135
+max acq sample value
+0.9545635245725292
+PowerBALanCe Pass:3, train_size:120, test_acc:0.9207, pos_lt: [15917, 60752, 92094, 59323, 18347, 5241, 51732, 40097, 101513, 31067] 
+patience ex; best epoch: 6, best val acc: 0.9207
+max acq sample value
+0.9518673907402895
+PowerBALanCe Pass:3, train_size:130, test_acc:0.9293, pos_lt: [74391, 32719, 41630, 86901, 47808, 71063, 75263, 65172, 58023, 70842] 
+patience ex; best epoch: 9, best val acc: 0.9252
+max acq sample value
+0.938465879081368
+PowerBALanCe Pass:3, train_size:140, test_acc:0.9323, pos_lt: [17000, 62452, 32127, 56417, 87238, 91004, 31394, 61528, 98745, 98050] 
+patience ex; best epoch: 4, best val acc: 0.9254
+max acq sample value
+0.9334608099496635
+PowerBALanCe Pass:3, train_size:150, test_acc:0.9356, pos_lt: [43722, 116458, 48145, 54230, 63847, 118973, 36371, 116518, 8853, 107012] 
+patience ex; best epoch: 15, best val acc: 0.9374
+max acq sample value
+0.9527358849878579
+PowerBALanCe Pass:3, train_size:160, test_acc:0.9419, pos_lt: [20928, 41883, 15912, 15252, 105555, 41602, 51074, 84613, 6726, 29713] 
+patience ex; best epoch: 12, best val acc: 0.9414
+max acq sample value
+0.9484833082698928
+PowerBALanCe Pass:3, train_size:170, test_acc:0.9437, pos_lt: [103147, 44888, 48752, 119683, 41723, 99357, 66691, 115345, 12504, 10377] 
+patience ex; best epoch: 9, best val acc: 0.9384
+max acq sample value
+0.9491638031398696
+PowerBALanCe Pass:3, train_size:180, test_acc:0.9439, pos_lt: [6979, 114978, 19695, 46029, 63251, 20990, 80551, 87572, 10233, 63537] 
+patience ex; best epoch: 8, best val acc: 0.9401
+max acq sample value
+0.9515802161525884
+PowerBALanCe Pass:3, train_size:190, test_acc:0.9473, pos_lt: [85697, 51307, 34738, 56096, 40661, 42285, 65207, 48896, 9988, 95478] 
+patience ex; best epoch: 8, best val acc: 0.947
+max acq sample value
+0.9453722808051315
+PowerBALanCe Pass:3, train_size:200, test_acc:0.9552, pos_lt: [35069, 92838, 99829, 66489, 42419, 24053, 72997, 80352, 74004, 67386] 
+patience ex; best epoch: 14, best val acc: 0.938
+max acq sample value
+0.9573904658857386
+PowerBALanCe Pass:3, train_size:210, test_acc:0.9425, pos_lt: [45757, 114951, 111856, 44222, 48021, 80240, 119560, 68996, 116793, 115205] 
+patience ex; best epoch: 11, best val acc: 0.9441
+max acq sample value
+0.9457805309414538
+PowerBALanCe Pass:3, train_size:220, test_acc:0.9492, pos_lt: [103708, 107497, 104384, 116072, 81447, 14009, 1104, 61494, 61533, 98541] 
+patience ex; best epoch: 7, best val acc: 0.9439
+max acq sample value
+0.9378931230296408
+PowerBALanCe Pass:3, train_size:230, test_acc:0.9496, pos_lt: [23535, 113173, 76559, 91494, 90931, 11559, 104117, 45698, 118910, 16345] 
+patience ex; best epoch: 17, best val acc: 0.9501
+max acq sample value
+0.9568350642382724
+PowerBALanCe Pass:3, train_size:240, test_acc:0.9546, pos_lt: [23662, 78294, 95286, 55443, 107324, 111579, 111409, 103193, 110480, 492] 
+patience ex; best epoch: 10, best val acc: 0.9516
+max acq sample value
+0.9452699480375039
+PowerBALanCe Pass:3, train_size:250, test_acc:0.9574, pos_lt: [90515, 116255, 42345, 89486, 2398, 87907, 87264, 76498, 94390, 22698] 
+patience ex; best epoch: 6, best val acc: 0.9516
+max acq sample value
+0.9333312606279701
+PowerBALanCe Pass:3, train_size:260, test_acc:0.9586, pos_lt: [18912, 72414, 46510, 52720, 92247, 13319, 97229, 12266, 6744, 74647] 
+patience ex; best epoch: 10, best val acc: 0.9532
+max acq sample value
+0.942330591061335
+PowerBALanCe Pass:3, train_size:270, test_acc:0.9583, pos_lt: [58742, 75013, 97401, 93718, 40498, 77132, 44130, 110696, 21925, 80770] 
+patience ex; best epoch: 9, best val acc: 0.956
+max acq sample value
+0.9504621907344233
+PowerBALanCe Pass:3, train_size:280, test_acc:0.9582, pos_lt: [21941, 39814, 52722, 70235, 89621, 444, 33481, 97405, 66423, 10954] 
+patience ex; best epoch: 12, best val acc: 0.955
+max acq sample value
+0.9416748710128077
+PowerBALanCe Pass:3, train_size:290, test_acc:0.9603, pos_lt: [83503, 85479, 92612, 79701, 119371, 45803, 4713, 32380, 81143, 44217] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 4, best val acc: 0.6504
+max acq sample value
+0.9537234198831617
+PowerBALanCe Pass:4, train_size:20, test_acc:0.6529, pos_lt: [19952, 25398, 29877, 86891, 81047, 100005, 108487, 43655, 20714, 56699] 
+patience ex; best epoch: 4, best val acc: 0.7263
+max acq sample value
+0.9443168021978601
+PowerBALanCe Pass:4, train_size:30, test_acc:0.7281, pos_lt: [16426, 59348, 96722, 12101, 87639, 50212, 16799, 32509, 39679, 91324] 
+patience ex; best epoch: 4, best val acc: 0.7691
+max acq sample value
+0.9506101838554311
+PowerBALanCe Pass:4, train_size:40, test_acc:0.7631, pos_lt: [114435, 116337, 90372, 85726, 113110, 51009, 1286, 29470, 26649, 16548] 
+patience ex; best epoch: 10, best val acc: 0.8412
+max acq sample value
+0.9553672547969402
+PowerBALanCe Pass:4, train_size:50, test_acc:0.8393, pos_lt: [10570, 46541, 52261, 19276, 107687, 92232, 106290, 28110, 38653, 104198] 
+patience ex; best epoch: 8, best val acc: 0.8676
+max acq sample value
+0.9435877326352675
+PowerBALanCe Pass:4, train_size:60, test_acc:0.8653, pos_lt: [92266, 74613, 68161, 19272, 75892, 73380, 91347, 74086, 31150, 67639] 
+patience ex; best epoch: 7, best val acc: 0.8727
+max acq sample value
+0.9433809152555637
+PowerBALanCe Pass:4, train_size:70, test_acc:0.8724, pos_lt: [114623, 75560, 69383, 99749, 33342, 89945, 59122, 72702, 27918, 13496] 
+patience ex; best epoch: 4, best val acc: 0.8759
+max acq sample value
+0.943484841580271
+PowerBALanCe Pass:4, train_size:80, test_acc:0.8775, pos_lt: [59521, 4175, 70556, 8960, 8878, 94851, 118506, 97601, 100223, 27486] 
+patience ex; best epoch: 6, best val acc: 0.9019
+max acq sample value
+0.9517806071428677
+PowerBALanCe Pass:4, train_size:90, test_acc:0.9011, pos_lt: [88921, 14868, 62610, 112219, 72884, 71630, 104687, 85740, 19741, 22332] 
+patience ex; best epoch: 7, best val acc: 0.9076
+max acq sample value
+0.9418020322551007
+PowerBALanCe Pass:4, train_size:100, test_acc:0.9164, pos_lt: [111427, 64528, 73901, 35896, 64463, 60761, 17972, 112394, 48216, 33437] 
+patience ex; best epoch: 11, best val acc: 0.9004
+max acq sample value
+0.9590967537215974
+PowerBALanCe Pass:4, train_size:110, test_acc:0.9082, pos_lt: [94676, 31679, 114316, 88377, 53841, 109302, 65732, 75231, 105737, 75843] 
+patience ex; best epoch: 15, best val acc: 0.9086
+max acq sample value
+0.9502686153794749
+PowerBALanCe Pass:4, train_size:120, test_acc:0.912, pos_lt: [97706, 102235, 21091, 12004, 115733, 79592, 40907, 81484, 111911, 62194] 
+patience ex; best epoch: 4, best val acc: 0.9091
+max acq sample value
+0.933435246234706
+PowerBALanCe Pass:4, train_size:130, test_acc:0.9116, pos_lt: [11222, 71475, 35433, 116810, 12205, 32137, 117428, 36556, 3916, 2706] 
+patience ex; best epoch: 21, best val acc: 0.9221
+max acq sample value
+0.9564963030844628
+PowerBALanCe Pass:4, train_size:140, test_acc:0.9265, pos_lt: [4174, 27253, 42118, 103751, 78621, 54408, 103988, 84536, 97420, 45212] 
+patience ex; best epoch: 13, best val acc: 0.926
+max acq sample value
+0.9514271237433647
+PowerBALanCe Pass:4, train_size:150, test_acc:0.9371, pos_lt: [60354, 70012, 71355, 51148, 3636, 58421, 41281, 109195, 22227, 114104] 
+patience ex; best epoch: 7, best val acc: 0.9297
+max acq sample value
+0.9506485067520424
+PowerBALanCe Pass:4, train_size:160, test_acc:0.9379, pos_lt: [50942, 67108, 71639, 81427, 17065, 64974, 32313, 119624, 75183, 20872] 
+patience ex; best epoch: 7, best val acc: 0.9315
+max acq sample value
+0.9307505037138369
+PowerBALanCe Pass:4, train_size:170, test_acc:0.9386, pos_lt: [36860, 98936, 60761, 39371, 3869, 118769, 47254, 102732, 70026, 7360] 
+patience ex; best epoch: 14, best val acc: 0.936
+max acq sample value
+0.9433756747645222
+PowerBALanCe Pass:4, train_size:180, test_acc:0.9402, pos_lt: [39104, 72078, 79534, 89789, 31746, 84705, 18526, 356, 80493, 1268] 
+patience ex; best epoch: 6, best val acc: 0.9355
+max acq sample value
+0.9469633917593844
+PowerBALanCe Pass:4, train_size:190, test_acc:0.9429, pos_lt: [12061, 43407, 17151, 31673, 40696, 44701, 56437, 107732, 54601, 39656] 
+patience ex; best epoch: 5, best val acc: 0.9363
+max acq sample value
+0.9240500414069621
+PowerBALanCe Pass:4, train_size:200, test_acc:0.9421, pos_lt: [98414, 1634, 112113, 2178, 70317, 97377, 114078, 87596, 104191, 73305] 
+patience ex; best epoch: 11, best val acc: 0.9376
+max acq sample value
+0.9461898103600813
+PowerBALanCe Pass:4, train_size:210, test_acc:0.9432, pos_lt: [52616, 76424, 12093, 22653, 30817, 14408, 29709, 75120, 69923, 35981] 
+patience ex; best epoch: 6, best val acc: 0.9407
+max acq sample value
+0.9352431456700733
+PowerBALanCe Pass:4, train_size:220, test_acc:0.9485, pos_lt: [72099, 91845, 118444, 16155, 40368, 109363, 63274, 13089, 36385, 39728] 
+patience ex; best epoch: 15, best val acc: 0.9464
+max acq sample value
+0.9374686722070426
+PowerBALanCe Pass:4, train_size:230, test_acc:0.9507, pos_lt: [102226, 36317, 487, 24969, 18939, 33460, 73497, 97594, 47692, 4298] 
+patience ex; best epoch: 12, best val acc: 0.9496
+max acq sample value
+0.9410660772672291
+PowerBALanCe Pass:4, train_size:240, test_acc:0.9545, pos_lt: [45871, 104728, 112041, 114902, 2926, 23089, 66406, 96383, 72497, 39503] 
+patience ex; best epoch: 15, best val acc: 0.9545
+max acq sample value
+0.9322616319191773
+PowerBALanCe Pass:4, train_size:250, test_acc:0.9596, pos_lt: [53534, 32027, 113515, 21689, 47808, 26934, 108454, 98315, 26293, 62512] 
+patience ex; best epoch: 7, best val acc: 0.9505
+max acq sample value
+0.9321675544851528
+PowerBALanCe Pass:4, train_size:260, test_acc:0.9562, pos_lt: [106780, 110499, 27763, 117962, 15420, 48310, 113088, 23624, 100614, 15894] 
+patience ex; best epoch: 10, best val acc: 0.9496
+max acq sample value
+0.9368620488041747
+PowerBALanCe Pass:4, train_size:270, test_acc:0.9569, pos_lt: [19081, 78738, 78375, 43321, 98257, 76772, 97778, 36736, 18460, 55898] 
+patience ex; best epoch: 12, best val acc: 0.9519
+max acq sample value
+0.9465892686806076
+PowerBALanCe Pass:4, train_size:280, test_acc:0.9606, pos_lt: [93363, 11212, 91608, 75004, 57985, 97356, 110189, 10149, 12227, 66460] 
+patience ex; best epoch: 9, best val acc: 0.9507
+max acq sample value
+0.9253030712920249
+PowerBALanCe Pass:4, train_size:290, test_acc:0.9552, pos_lt: [69522, 7623, 110195, 112794, 66346, 60950, 119134, 38528, 95257, 21105] 
+Pool size: (119940, 28, 28)
+Pool shuffle
+Pool size: (10000, 28, 28)
+Pool shuffle
+Buffer init from pt file
+Buffer init from pt file
+Buffer init from pt file
+patience ex; best epoch: 0, best val acc: 0.6548
+max acq sample value
+0.9438446121296683
+PowerBALanCe Pass:5, train_size:20, test_acc:0.6559, pos_lt: [65028, 10208, 12251, 79710, 46347, 10735, 18812, 96918, 41306, 33315] 
+patience ex; best epoch: 7, best val acc: 0.7146
+max acq sample value
+0.9477632347718854
+PowerBALanCe Pass:5, train_size:30, test_acc:0.7265, pos_lt: [100120, 93151, 97577, 90766, 18097, 45304, 25958, 91920, 68888, 103170] 
+patience ex; best epoch: 2, best val acc: 0.7804
+max acq sample value
+0.9333888337909437
+PowerBALanCe Pass:5, train_size:40, test_acc:0.7929, pos_lt: [86157, 82858, 105486, 54248, 79630, 16121, 13250, 42921, 78604, 102903] 
+patience ex; best epoch: 2, best val acc: 0.8033
+max acq sample value
+0.9400967672489421
+PowerBALanCe Pass:5, train_size:50, test_acc:0.8153, pos_lt: [109438, 87907, 29193, 12647, 96534, 40893, 10130, 71635, 115546, 5348] 
+patience ex; best epoch: 3, best val acc: 0.8496
+max acq sample value
+0.933401822656841
+PowerBALanCe Pass:5, train_size:60, test_acc:0.8558, pos_lt: [95101, 18360, 44911, 96823, 9056, 65745, 84329, 29779, 77711, 74015] 
+patience ex; best epoch: 1, best val acc: 0.8689
+max acq sample value
+0.9313966640653222
+PowerBALanCe Pass:5, train_size:70, test_acc:0.8758, pos_lt: [10170, 115388, 36233, 98453, 83092, 24237, 52555, 58204, 70070, 75276] 
+patience ex; best epoch: 4, best val acc: 0.8664
+max acq sample value
+0.954189189402098
+PowerBALanCe Pass:5, train_size:80, test_acc:0.8702, pos_lt: [11645, 16158, 69058, 90240, 47347, 25928, 54328, 653, 41145, 106451] 
+patience ex; best epoch: 14, best val acc: 0.8945
+max acq sample value
+0.9491681967441228
+PowerBALanCe Pass:5, train_size:90, test_acc:0.9075, pos_lt: [67266, 115511, 105564, 83571, 10584, 67262, 117350, 65011, 20216, 109902] 
+patience ex; best epoch: 12, best val acc: 0.8956
+max acq sample value
+0.960958618315837
+PowerBALanCe Pass:5, train_size:100, test_acc:0.9007, pos_lt: [51426, 117771, 21363, 59867, 39769, 18019, 34517, 44155, 98206, 95601] 
+patience ex; best epoch: 10, best val acc: 0.8976
+max acq sample value
+0.941274465505693
+PowerBALanCe Pass:5, train_size:110, test_acc:0.905, pos_lt: [98407, 114687, 53621, 16183, 92535, 95004, 105266, 3679, 10597, 35609] 
+patience ex; best epoch: 9, best val acc: 0.9083
+max acq sample value
+0.9501548479207992
+PowerBALanCe Pass:5, train_size:120, test_acc:0.9132, pos_lt: [8900, 40020, 34930, 43935, 44246, 56402, 80469, 34769, 23613, 46012] 
+patience ex; best epoch: 15, best val acc: 0.9177
+max acq sample value
+0.9610938570990569
+PowerBALanCe Pass:5, train_size:130, test_acc:0.9161, pos_lt: [53308, 70714, 88174, 51516, 28280, 29507, 89821, 55099, 13414, 55666] 
+patience ex; best epoch: 7, best val acc: 0.9178
+max acq sample value
+0.9534069622483292
+PowerBALanCe Pass:5, train_size:140, test_acc:0.9221, pos_lt: [81574, 71418, 21497, 113397, 13522, 62745, 80244, 79722, 49135, 103889] 
+patience ex; best epoch: 9, best val acc: 0.9272
+max acq sample value
+0.9241732532509963
+PowerBALanCe Pass:5, train_size:150, test_acc:0.9248, pos_lt: [103167, 50316, 98454, 4235, 3895, 97223, 20424, 5860, 75158, 11489] 
+patience ex; best epoch: 9, best val acc: 0.9322
+max acq sample value
+0.9517012932141518
+PowerBALanCe Pass:5, train_size:160, test_acc:0.9351, pos_lt: [116384, 88644, 11695, 80850, 103546, 61360, 75951, 90764, 52667, 30589] 
+patience ex; best epoch: 5, best val acc: 0.9349
+max acq sample value
+0.9467359362108598
+PowerBALanCe Pass:5, train_size:170, test_acc:0.9359, pos_lt: [3021, 41786, 74487, 109450, 34662, 64289, 50760, 65339, 82200, 37768] 
+patience ex; best epoch: 6, best val acc: 0.9381
+max acq sample value
+0.9446564369221622
+PowerBALanCe Pass:5, train_size:180, test_acc:0.9385, pos_lt: [1460, 22481, 86929, 23218, 86898, 66976, 38919, 847, 44192, 63335] 
+patience ex; best epoch: 22, best val acc: 0.9408
+max acq sample value
+0.9513355532387009
+PowerBALanCe Pass:5, train_size:190, test_acc:0.9455, pos_lt: [87033, 108653, 21544, 9771, 83731, 18271, 79261, 24582, 23841, 105331] 
+patience ex; best epoch: 14, best val acc: 0.9442
+max acq sample value
+0.9539925438494933
+PowerBALanCe Pass:5, train_size:200, test_acc:0.9457, pos_lt: [99355, 49341, 75691, 95696, 69942, 76215, 8934, 4813, 9159, 32188] 
+patience ex; best epoch: 8, best val acc: 0.9494
+max acq sample value
+0.937305364308149
+PowerBALanCe Pass:5, train_size:210, test_acc:0.9489, pos_lt: [14075, 62116, 23470, 620, 67003, 14175, 39082, 73978, 10857, 35939] 
+patience ex; best epoch: 7, best val acc: 0.9494
+max acq sample value
+0.9515535557445928
+PowerBALanCe Pass:5, train_size:220, test_acc:0.9477, pos_lt: [48326, 18211, 97280, 12100, 92037, 79419, 25103, 115327, 6070, 44681] 
+patience ex; best epoch: 5, best val acc: 0.9482
+max acq sample value
+0.9313730725297177
+PowerBALanCe Pass:5, train_size:230, test_acc:0.9516, pos_lt: [40729, 35163, 82378, 26891, 112579, 6587, 30666, 82325, 41577, 94113] 
+patience ex; best epoch: 5, best val acc: 0.9513
+max acq sample value
+0.9220866631391244
+PowerBALanCe Pass:5, train_size:240, test_acc:0.9504, pos_lt: [114423, 69060, 35626, 5192, 25990, 35214, 72257, 100706, 38884, 85648] 
+patience ex; best epoch: 13, best val acc: 0.9501
+max acq sample value
+0.9347202886816198
+PowerBALanCe Pass:5, train_size:250, test_acc:0.9555, pos_lt: [71533, 87171, 59634, 76237, 6836, 95855, 87359, 97407, 34648, 33636] 
+patience ex; best epoch: 7, best val acc: 0.9506
+max acq sample value
+0.9297890076962284
+PowerBALanCe Pass:5, train_size:260, test_acc:0.9507, pos_lt: [1537, 87345, 106439, 49897, 40785, 79342, 114584, 112272, 96496, 83550] 
+patience ex; best epoch: 9, best val acc: 0.9527
+max acq sample value
+0.9361055641909611
+PowerBALanCe Pass:5, train_size:270, test_acc:0.9579, pos_lt: [16834, 43678, 2086, 76893, 111326, 15645, 43640, 40108, 18605, 55570] 
+patience ex; best epoch: 6, best val acc: 0.9544
+max acq sample value
+0.9281484948449514
+PowerBALanCe Pass:5, train_size:280, test_acc:0.9556, pos_lt: [71952, 69161, 110963, 55587, 20425, 110474, 21302, 106435, 59825, 89546] 
+patience ex; best epoch: 14, best val acc: 0.9563
+max acq sample value
+0.9435114770167055
+PowerBALanCe Pass:5, train_size:290, test_acc:0.9623, pos_lt: [84003, 69808, 109656, 9023, 83584, 95663, 38910, 94385, 60833, 42331] 
