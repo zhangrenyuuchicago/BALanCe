@@ -3,6 +3,7 @@ paper link: https://openreview.net/forum?id=GRZtigJljLY&referrer=%5BAuthor%20Con
 
 ![](Figs/repeatedmnist_all_alg_learning_curve.png width=100 height=100)
 *Learning curves on RepeatedMNIST dataset*
+<img src="Figs/repeatedmnist_all_alg_learning_curve.png" width=100 height=100>
 
 ## Source codes for greedy selection 
 in folder Greedy/
