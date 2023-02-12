@@ -9,7 +9,7 @@ from torch.distributions.categorical import Categorical
 
 import os
 
-def acquire(model, pool, device, coldness=1.0, B=30, M=10000, sample_num=20, score_batch_size=40):
+def acquire(model, pool, device, coldness=1.0, B=30, sample_num=20, score_batch_size=40):
     model.eval()
     
     origin_pos_lt = []

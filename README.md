@@ -1,15 +1,5 @@
-# BALanCe
-This is all the source codes for ICLR2023 paper
-
-BALanCe: Deep Bayesian Active Learning via Equivalence Class Annealing
-
-## How to reproduce the results
-Install pytorch and other libs
-
-```
-conda install pytorch torchvision cudatoolkit=10.0 -c pytorch
-pip install -r requirements.txt
-```
+# [ICLR2023] Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing
+paper link: https://openreview.net/forum?id=GRZtigJljLY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)
 
 ### AL trials on MNIST, EMNIST-Balanced, EMNIST-ByMerge, EMNIST-ByClass and Fashion-MNIST
 go to the task folder, e.g., 

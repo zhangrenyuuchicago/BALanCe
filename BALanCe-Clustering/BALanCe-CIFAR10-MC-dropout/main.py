@@ -9,7 +9,6 @@ import torch.nn.functional as F
 from torch import optim
 from np_encoder import NpEncoder
 import numpy as np
-#import random_acq, batch_balance_gpu, batch_bald_gpu, mean_std, variation_ratios
 import random_acq
 import bald_gpu, balance_gpu
 import badge, core_set
@@ -63,7 +62,6 @@ parser.add_option("--seed", dest="seed", type="int", default=1,
         help="seed")
 (options, args) = parser.parse_args()
 
-# method 'Filtering-BatchBALD', 'Filtering-Batch-BALanCe', 'Filtering-Batch-BALanCe-Lazy', 'Mean-STD', 'Variation-Ratio', 'Random'
 method=options.method
 sample_num=options.sample_num
 al_num=options.al_num
@@ -246,10 +244,10 @@ def one_pass(pass_time):
             hamming_dis_threshold=(1.0-val_acc)*anneal_ratio
             pos_lt = balance_gpu.acquire(net, pool, pool_hamming, device=device, downsample_num=downsample_num, coldness=coldness, B=B, hamming_dis_threshold=hamming_dis_threshold, sample_num=sample_num)
         elif method == 'PowerBALD':
-            pos_lt = power_bald.acquire(net, pool, device=device, coldness=coldness, M=M, B=B, sample_num=sample_num)
+            pos_lt = power_bald.acquire(net, pool, device=device, coldness=coldness, B=B, sample_num=sample_num)
         elif method == 'PowerBALanCe':
             hamming_dis_threshold=(1.0-val_acc)*anneal_ratio
-            pos_lt = power_balance.acquire(net, pool, pool_hamming, device=device, coldness=coldness, M=M, B=B, hamming_dis_threshold=hamming_dis_threshold, sample_num=sample_num)
+            pos_lt = power_balance.acquire(net, pool, pool_hamming, device=device, coldness=coldness, B=B, hamming_dis_threshold=hamming_dis_threshold, sample_num=sample_num)
         elif method == 'BADGE':
             pos_lt = badge.acquire(net, pool, device=device, B=B, sample_num=sample_num)
         elif method == 'CoreSet':
@@ -261,7 +259,6 @@ def one_pass(pass_time):
         trial_checkpoint['acquired_pos_lt'].append(pos_lt)
         pool.query_labels(pos_lt)
         pool_train.add_samples(pos_lt)
-        #print(f'{method} Pass:{pass_time}, train_size:{dataset_train.size()},\n\ttest_result:{test_result},\n\tpos_lt: {pos_lt} ')
         print(f'{method} Pass:{pass_time}, train_size:{dataset_train.size()-B},\n\ttest_result:{test_result}')
 
     return trial_checkpoint, model_state_lt
@@ -269,9 +266,7 @@ def one_pass(pass_time):
 trial_model_state_lt = []
 for pass_time in range(al_num):
     trial_checkpoint, model_state_lt = one_pass(pass_time)
-    #trial_model_state_lt.append(model_state_lt)
     checkpoint['trial_checkpoint_lt'].append(trial_checkpoint)
-    #torch.save(trial_model_state_lt, f'{method}_model_state_{dt_string}.pt')
 
     with open(f'{method}_checkpoint_{dt_string}.json', 'w') as outfile:
         json.dump(checkpoint, outfile, cls=NpEncoder)

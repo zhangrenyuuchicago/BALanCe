@@ -67,7 +67,6 @@ parser.add_option("--seed", dest="seed", type="int", default=1,
         help="seed")
 (options, args) = parser.parse_args()
 
-# method 'Filtering-BatchBALD', 'Filtering-Batch-BALanCe', 'Filtering-Batch-BALanCe-Lazy', 'Mean-STD', 'Variation-Ratio', 'Random'
 method=options.method
 sample_num=options.sample_num
 al_num=options.al_num
@@ -298,29 +297,7 @@ def one_pass(pass_time):
         
         trial_checkpoint['test_result_lt'].append(test_result)
         #model_state_lt.append(copy.deepcopy(net.state_dict()))
-        
-        '''
-        if method == 'Batch-BALanCe':
-            hamming_dis_threshold=(1.0-val_acc)*anneal_ratio
-            pos_lt = batch_balance_gpu.acquire(net, pool, pool_hamming, device=device, M=M, B=B, hamming_dis_threshold=hamming_dis_threshold, sampling_index=sampling_index, sample_num=sample_num)
-        elif method == 'BALanCe':
-            hamming_dis_threshold=(1.0-val_acc)*anneal_ratio
-            pos_lt = balance_gpu.acquire(f'{method}_saved_models/', pool, pool_val, pool_hamming, device=device, M=M, B=B, hamming_dis_threshold=hamming_dis_threshold)
-        elif method == 'BatchBALD':
-            pos_lt = batch_bald_gpu.acquire(net, pool, device=device, M=M, B=B, sampling_index=sampling_index, sample_num=sample_num)
-        elif method == 'BALD':
-            pos_lt = bald_gpu.acquire(net, pool, pool_val, device=device, M=M, B=B, sampling_index=sampling_index, sample_num=sample_num)
-        elif method == 'Mean-STD':
-            pos_lt = mean_std.acquire(net, pool, pool_val, device=device, B=B, sample_num=sample_num)
-        elif method == 'Variation-Ratio':
-            pos_lt = variation_ratios.acquire(net, pool, pool_val, device=device, B=B, sample_num=sample_num)
-        el
-        elif method == 'Margin':
-            pos_lt = margin.acquire(net, pool, pool_val, device=device, B=B, sample_num=sample_num)
-        elif method == 'Cluster-Margin':
-            pos_lt = cluster_margin.acquire(net, pool, device=device, B=B, sample_num=sample_num)
- 
-        '''
+
         if method == 'Random':
             pos_lt = random_acq.acquire(pool, B=B) 
         elif method == 'BADGE':
@@ -355,9 +332,7 @@ else:
 
 for pass_time in range(al_num):
     trial_checkpoint, model_state_lt = one_pass(pass_time)
-    #trial_model_state_lt.append(model_state_lt)
     checkpoint['trial_checkpoint_lt'].append(trial_checkpoint)
-    #torch.save(trial_model_state_lt, f'{method}_model_state_{dt_string}.pt')
 
     with open(f'{method}_checkpoint_{dt_string}.json', 'w') as outfile:
         json.dump(checkpoint, outfile, cls=NpEncoder)

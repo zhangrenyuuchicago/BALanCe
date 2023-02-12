@@ -6,7 +6,7 @@ from scipy.spatial import distance
 import os
 import random
 
-def acquire(model, pool, hamming_pool, device, coldness=1.0, B=10, M=10000, sample_num=20, hamming_dis_threshold=0.05, class_num=10, score_batch_size=20):
+def acquire(model, pool, hamming_pool, device, coldness=1.0, B=10, sample_num=20, hamming_dis_threshold=0.05, class_num=10, score_batch_size=20):
     model.eval()
     dataset1 = MyDataset(pool)
     dataset2 = MyDataset(hamming_pool)
