@@ -1,8 +1,10 @@
 # [ICLR2023] Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing
 paper link: https://openreview.net/forum?id=GRZtigJljLY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)
 
-<img src="Figs/repeatedmnist_all_alg_learning_curve.png" width=300 height=300>
-*Learning curves on RepeatedMNIST dataset*
+<p>
+<img src="Figs/repeatedmnist_all_alg_learning_curve.png" width=400 height=400>
+<em> Learning curves on RepeatedMNIST dataset </em>
+</p>
 
 ## Source codes for greedy selection 
 in folder Greedy/
