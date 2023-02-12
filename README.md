@@ -3,6 +3,8 @@ paper link: https://openreview.net/forum?id=GRZtigJljLY&referrer=%5BAuthor%20Con
 
 <p align="center">
 <img src="Figs/repeatedmnist_all_alg_learning_curve.png" width=400 height=400 align="center" alt>
+</p>
+<p align="center">
 <em> Learning curves on RepeatedMNIST dataset </em>
 </p>
 
