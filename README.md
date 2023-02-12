@@ -1,10 +1,21 @@
 # [ICLR2023] Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing
 paper link: https://openreview.net/forum?id=GRZtigJljLY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)
 
+![](Figs/repeatedmnist_all_alg_with_xy_label.pdf)
+
+## Source codes for greedy selection 
+in folder Greedy/
+
+## Source codes for BALanCe-Clustering with MC-dropout
+in folder BALanCe-Clustering/BALanCe-CIFAR10-MC-dropout/
+
+## Source codes for BALanCe-Clustering with [cSG-MCMC](https://github.com/ruqizhang/csgmcmc)
+in folder BALanCe-Clustering/BALanCe-CIFAR10-cSG-MCMC/
+
 ### AL trials on MNIST, EMNIST-Balanced, EMNIST-ByMerge, EMNIST-ByClass and Fashion-MNIST
 go to the task folder, e.g., 
 ```
-cd BALanCe/
+cd Misc/
 ```
 
 go to data folder, e.g., 
