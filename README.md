@@ -43,9 +43,9 @@ python main_eced.py
 
 All the paramter are defined inside python file. The default ones are used in the paper.
 
-### Fig. 1 and Fig. 2
+### Fig. 1 
 
-go to folder Fig1-2/
+go to folder Fig1/
 ```
 cd Fig1-2
 ```
