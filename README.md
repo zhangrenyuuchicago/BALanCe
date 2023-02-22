@@ -1,5 +1,5 @@
 # [ICLR2023] Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing
-paper link: https://openreview.net/forum?id=GRZtigJljLY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions)
+[paper link](https://openreview.net/forum?id=GRZtigJljLY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2023%2FConference%2FAuthors%23your-submissions))
 
 <p align="center">
 <img src="Figs/repeatedmnist_all_alg_learning_curve.png" width=400 height=400 align="center" alt>
@@ -7,6 +7,16 @@ paper link: https://openreview.net/forum?id=GRZtigJljLY&referrer=%5BAuthor%20Con
 <p align="center">
 <em> Learning curves on RepeatedMNIST dataset </em>
 </p>
+
+Please consider citing our paper if you find it helpful and related. BibTex is 
+```
+@inproceedings{zhang2023scalable,
+  title={Scalable Batch-Mode Deep Bayesian Active Learning via Equivalence Class Annealing},
+  author={Zhang, Renyu and Khan, Aly A and Grossman, Robert L and Chen, Yuxin},
+  booktitle={International Conference on Learning Representations},
+  year={2023}
+}
+```
 
 ## Source codes for greedy selection 
 in folder Greedy/
